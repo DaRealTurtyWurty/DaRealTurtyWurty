@@ -26,14 +26,13 @@
 [<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"/>][unity]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>][unity]
 
-<!--> github-readme-stats-hwa9vez0v.vercel.app <-->
-
 <br/>
 <br/>
 
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Turty's Chemistry Dev Stream 10](https://www.youtube.com/watch?v=rrKszBlWA-o)
 - [Why haven't I updated to 1.16?](https://www.youtube.com/watch?v=-8fJtrZgsMU)
 - [Turty's Chemistry Dev Stream 9](https://www.youtube.com/watch?v=dse5_TXm0Dg)
