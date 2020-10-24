@@ -1,3 +1,5 @@
+![Discord](https://img.shields.io/discord/621352915034177566?color=7289DA&label=My%20Discord%20Server&logo=Discord&style=plastic)
+
 ### Hi there, I'm TurtyWurty 👋
 
 ## I'm a programmer and a games developer!
