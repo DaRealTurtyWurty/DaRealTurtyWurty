@@ -51,9 +51,11 @@
 
 <details>
     <summary>:zap: Recent Github Activity</summary>
-    <!--START_SECTION:activity-->
-    <!--END_SECTION:activity-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 </details>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealTurtyWurty&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Spotify](https://novatorem-44et1xs1t.vercel.app/api/spotify)](https://open.spotify.com/user/TurtyWurty)
 
