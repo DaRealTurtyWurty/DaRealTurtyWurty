@@ -22,9 +22,11 @@
 [<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][css]
 [<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>][javascript]
 [<img align="left" alt="Node JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>][nodejs]
-[<img align="left" alt="Eclipse" width="26px" src="https://www.eclipse.org/artwork/images/v2/logo-800x188.png"/>][eclipse]
+[<img align="left" alt="Eclipse" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/eclipse.svg"/>][eclipse]
 [<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"/>][unity]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>][unity]
+
+<!--> github-readme-stats-hwa9vez0v.vercel.app <-->
 
 <br/>
 <br/>
@@ -33,6 +35,11 @@
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
+
+<details>
+    <summary>:zap: Github Stats</summary>
+    <img align="left" alt="DaRealTurtyWurty's GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=DaRealTurtyWurty&show_icons=true&hide_border=true"/>
+</details>
 
 [youtube]: https://youtube.com/TurtyWurty
 [discord]: https://discord.gg/d5cGhKQ
