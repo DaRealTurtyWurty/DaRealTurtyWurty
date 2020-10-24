@@ -55,8 +55,8 @@
 <!--END_SECTION:activity-->
 </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealTurtyWurty&layout=compact?theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![DaRealTurtyWurty's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DaRealTurtyWurty?theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealTurtyWurty&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![DaRealTurtyWurty's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DaRealTurtyWurty&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Spotify](https://novatorem-44et1xs1t.vercel.app/api/spotify)](https://open.spotify.com/user/TurtyWurty)
 
