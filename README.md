@@ -1,4 +1,8 @@
 ![Discord](https://img.shields.io/discord/621352915034177566?color=7289DA&label=My%20Discord%20Server&logo=Discord&style=plastic)
+![Twitter Follow](https://img.shields.io/twitter/follow/RealTurtyWurty?color=1DA1F2&label=Follow%20me%20on%20Twitter&logo=Twitter&logoColor=1DA1F2&style=social)
+
+<script src="https://apis.google.com/js/platform.js"></script>
+<div class="g-ytsubscribe" data-channelid="UCicAXLV4w2X6bn2EuM4To4w" data-layout="full" data-theme="dark" data-count="default"></div>
 
 ### Hi there, I'm TurtyWurty 👋
 
@@ -34,6 +38,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Turty's Chemistry Dev Stream 10](https://www.youtube.com/watch?v=rrKszBlWA-o)
 - [Why haven't I updated to 1.16?](https://www.youtube.com/watch?v=-8fJtrZgsMU)
 - [Turty's Chemistry Dev Stream 9](https://www.youtube.com/watch?v=dse5_TXm0Dg)
