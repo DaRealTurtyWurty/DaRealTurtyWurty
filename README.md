@@ -1,5 +1,6 @@
 ![Discord](https://img.shields.io/discord/621352915034177566?color=7289DA&label=My%20Discord%20Server&logo=Discord&style=plastic)
 ![Twitter Follow](https://img.shields.io/twitter/follow/RealTurtyWurty?color=1DA1F2&label=Follow%20me%20on%20Twitter&logo=Twitter&logoColor=1DA1F2&style=social)
+![GitHub followers](https://img.shields.io/github/followers/DaRealTurtyWurty?style=social)
 
 ### Hi there, I'm TurtyWurty 👋
 
@@ -32,20 +33,26 @@
 <br/>
 <br/>
 
-### Latest Youtube Videos
-
-<!-- YOUTUBE:START -->
-
-- [Turty's Chemistry Dev Stream 10](https://www.youtube.com/watch?v=rrKszBlWA-o)
-- [Why haven't I updated to 1.16?](https://www.youtube.com/watch?v=-8fJtrZgsMU)
-- [Turty's Chemistry Dev Stream 9](https://www.youtube.com/watch?v=dse5_TXm0Dg)
-- [Turty's Chemistry Dev Stream 8](https://www.youtube.com/watch?v=KdHOVyeyNuA)
-- [Minecraft Modding Tutorial 1.15 | Custom Item Models - Episode 50](https://www.youtube.com/watch?v=PxtRMvhlwjM)
-<!-- YOUTUBE:END -->
+<details>
+    <summary>Latest Youtube Videos</summary>
+    <!-- YOUTUBE:START -->
+    - [Turty's Chemistry Dev Stream 10](https://www.youtube.com/watch?v=rrKszBlWA-o)
+    - [Why haven't I updated to 1.16?](https://www.youtube.com/watch?v=-8fJtrZgsMU)
+    - [Turty's Chemistry Dev Stream 9](https://www.youtube.com/watch?v=dse5_TXm0Dg)
+    - [Turty's Chemistry Dev Stream 8](https://www.youtube.com/watch?v=KdHOVyeyNuA)
+    - [Minecraft Modding Tutorial 1.15 | Custom Item Models - Episode 50](https://www.youtube.com/watch?v=PxtRMvhlwjM)
+    <!-- YOUTUBE:END -->
+</details>
 
 <details>
     <summary>:zap: Github Stats</summary>
     <img align="left" alt="DaRealTurtyWurty's GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=DaRealTurtyWurty&show_icons=true&hide_border=true"/>
+</details>
+
+<details>
+    <summary>:zap: Recent Github Activity</summary>
+    <!--START_SECTION:activity-->
+    <!--END_SECTION:activity-->
 </details>
 
 [youtube]: https://youtube.com/TurtyWurty
