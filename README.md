@@ -46,7 +46,7 @@
 
 <details>
     <summary>:zap: Github Stats</summary>
-    <img align="left" alt="DaRealTurtyWurty's GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=DaRealTurtyWurty&show_icons=true&hide_border=true"/>
+    <img align="left" alt="DaRealTurtyWurty's GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=DaRealTurtyWurty&show_icons=true&hide_border=true&theme=dark"/>
 </details>
 
 <details>
@@ -55,7 +55,8 @@
 <!--END_SECTION:activity-->
 </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealTurtyWurty&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealTurtyWurty&layout=compact?theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![DaRealTurtyWurty's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DaRealTurtyWurty?theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Spotify](https://novatorem-44et1xs1t.vercel.app/api/spotify)](https://open.spotify.com/user/TurtyWurty)
 
