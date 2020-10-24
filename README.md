@@ -31,9 +31,8 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE-LIST:START -->
-
-<!-- YOUTUBE-LIST:END -->
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 [youtube]: https://youtube.com/TurtyWurty
 [discord]: https://discord.gg/d5cGhKQ
