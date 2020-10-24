@@ -32,7 +32,6 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-
 - [Turty's Chemistry Dev Stream 10](https://www.youtube.com/watch?v=rrKszBlWA-o)
 - [Why haven't I updated to 1.16?](https://www.youtube.com/watch?v=-8fJtrZgsMU)
 - [Turty's Chemistry Dev Stream 9](https://www.youtube.com/watch?v=dse5_TXm0Dg)
