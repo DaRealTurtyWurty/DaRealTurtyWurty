@@ -55,6 +55,8 @@
     <!--END_SECTION:activity-->
 </details>
 
+[![Spotify](https://novatorem-44et1xs1t.vercel.app/api/spotify)](https://open.spotify.com/user/TurtyWurty)
+
 [youtube]: https://youtube.com/TurtyWurty
 [discord]: https://discord.gg/d5cGhKQ
 [vscode]: https://code.visualstudio.com
