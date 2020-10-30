@@ -46,6 +46,8 @@
 <details>
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#2](https://github.com/DaRealTurtyWurty/TurtyBotJS/pull/2) in [DaRealTurtyWurty/TurtyBotJS](https://github.com/DaRealTurtyWurty/TurtyBotJS)
+2. ❌ Closed PR [#1](https://github.com/DaRealTurtyWurty/TurtyBotJS/pull/1) in [DaRealTurtyWurty/TurtyBotJS](https://github.com/DaRealTurtyWurty/TurtyBotJS)
 <!--END_SECTION:activity-->
 </details>
 
