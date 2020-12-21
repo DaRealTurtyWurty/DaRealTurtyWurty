@@ -46,8 +46,8 @@
 <details>
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#17](https://github.com/TechnoVisionDev/TechnoBot/issues/17) in [TechnoVisionDev/TechnoBot](https://github.com/TechnoVisionDev/TechnoBot)
-2. ❌ Closed PR [#2](https://github.com/DaRealTurtyWurty/TurtyBotJS/pull/2) in [DaRealTurtyWurty/TurtyBotJS](https://github.com/DaRealTurtyWurty/TurtyBotJS)
+1. ❌ Reopened PR [#6](https://github.com/DaRealTurtyWurty/1.15-Tut-Mod/pull/6) in [DaRealTurtyWurty/1.15-Tut-Mod](https://github.com/DaRealTurtyWurty/1.15-Tut-Mod)
+2. ❌ Closed PR [#6](https://github.com/DaRealTurtyWurty/1.15-Tut-Mod/pull/6) in [DaRealTurtyWurty/1.15-Tut-Mod](https://github.com/DaRealTurtyWurty/1.15-Tut-Mod)
 <!--END_SECTION:activity-->
 </details>
 
