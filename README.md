@@ -36,11 +36,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Setting up the Workspace - Minecraft Forge 1.16.4 Modding Tutorial](https://www.youtube.com/watch?v=CwEFlV6tPcQ)
+- [How to install JDK 8 and JRE 8.](https://www.youtube.com/watch?v=yJ-SvS8WarQ)
 - [Only One - Winter Modding Competition](https://www.youtube.com/watch?v=Th9TqI6GMy0)
 - [Turty's Chemistry Dev Stream 10](https://www.youtube.com/watch?v=rrKszBlWA-o)
 - [Why haven't I updated to 1.16?](https://www.youtube.com/watch?v=-8fJtrZgsMU)
-- [Turty's Chemistry Dev Stream 9](https://www.youtube.com/watch?v=dse5_TXm0Dg)
-- [Turty's Chemistry Dev Stream 8](https://www.youtube.com/watch?v=KdHOVyeyNuA)
 <!-- YOUTUBE:END -->
 
 <details>
