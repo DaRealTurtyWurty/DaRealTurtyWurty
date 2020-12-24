@@ -36,11 +36,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Creating an Item - Minecraft Forge 1.16.4 Modding Tutorial](https://www.youtube.com/watch?v=NTo_tzOmukc)
 - [Organizing our project - Minecraft Forge 1.16.4 Modding Tutorial](https://www.youtube.com/watch?v=-sG0H2lUV-U)
 - [Setting up the Workspace - Minecraft Forge 1.16.4 Modding Tutorial](https://www.youtube.com/watch?v=CwEFlV6tPcQ)
 - [How to install JDK 8 and JRE 8.](https://www.youtube.com/watch?v=yJ-SvS8WarQ)
 - [Only One - Winter Modding Competition](https://www.youtube.com/watch?v=Th9TqI6GMy0)
-- [Turty's Chemistry Dev Stream 10](https://www.youtube.com/watch?v=rrKszBlWA-o)
 <!-- YOUTUBE:END -->
 
 <details>
