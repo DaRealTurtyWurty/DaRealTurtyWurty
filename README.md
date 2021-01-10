@@ -36,11 +36,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Turty's Chemistry Dev Stream 11](https://www.youtube.com/watch?v=tICEUqhaELQ)
 - [Advanced Items - Minecraft Forge 1.16.4 Modding Tutorial](https://www.youtube.com/watch?v=0vLbG-KrQy4)
 - [Creating Block Loot Tables - Minecraft Forge 1.16.4 Modding Tutorial](https://www.youtube.com/watch?v=xL0PigDsAso)
 - [Creating a Block - Minecraft Forge 1.16.4 Modding Tutorial](https://www.youtube.com/watch?v=4igJ_nsFAZs)
 - [Creating an Item - Minecraft Forge 1.16.4 Modding Tutorial](https://www.youtube.com/watch?v=NTo_tzOmukc)
-- [Organizing our project - Minecraft Forge 1.16.4 Modding Tutorial](https://www.youtube.com/watch?v=-sG0H2lUV-U)
 <!-- YOUTUBE:END -->
 
 <details>
