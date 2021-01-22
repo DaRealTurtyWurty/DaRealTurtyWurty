@@ -36,11 +36,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Recipes - Minecraft Forge 1.16.4 Modding Tutorial](https://www.youtube.com/watch?v=TwiBN-8IgKc)
 - [Ore Generation - Minecraft Forge 1.16.4 Modding Tutorial](https://www.youtube.com/watch?v=8s1x4Z87Aw8)
 - [Custom Food - Minecraft Forge 1.16.4 Modding Tutorial](https://www.youtube.com/watch?v=8UAlvY8RGYQ)
 - [Creative Tabs - Minecraft Forge 1.16.4 Modding Tutorial](https://www.youtube.com/watch?v=ynBimFFBjl4)
 - [Rotatable Custom Block Models - Minecraft Forge 1.16.4 Modding Tutorial](https://www.youtube.com/watch?v=dccls-csf0M)
-- [Turty's Chemistry Dev Stream 11](https://www.youtube.com/watch?v=tICEUqhaELQ)
 <!-- YOUTUBE:END -->
 
 <details>
