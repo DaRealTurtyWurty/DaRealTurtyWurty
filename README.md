@@ -46,8 +46,8 @@
 <details>
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/DaRealTurtyWurty/Modding-IDE/pull/10) in [DaRealTurtyWurty/Modding-IDE](https://github.com/DaRealTurtyWurty/Modding-IDE)
-2. 🎉 Merged PR [#11](https://github.com/DaRealTurtyWurty/Modding-IDE/pull/11) in [DaRealTurtyWurty/Modding-IDE](https://github.com/DaRealTurtyWurty/Modding-IDE)
+1. 🎉 Merged PR [#17](https://github.com/DaRealTurtyWurty/Modding-IDE/pull/17) in [DaRealTurtyWurty/Modding-IDE](https://github.com/DaRealTurtyWurty/Modding-IDE)
+2. 🎉 Merged PR [#14](https://github.com/DaRealTurtyWurty/Modding-IDE/pull/14) in [DaRealTurtyWurty/Modding-IDE](https://github.com/DaRealTurtyWurty/Modding-IDE)
 <!--END_SECTION:activity-->
 </details>
 
