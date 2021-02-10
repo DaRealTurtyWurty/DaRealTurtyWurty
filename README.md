@@ -46,8 +46,8 @@
 <details>
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/Railroad-Team/Modding-IDE/pull/35) in [Railroad-Team/Modding-IDE](https://github.com/Railroad-Team/Modding-IDE)
-2. ❗️ Closed issue [#28](https://github.com/Railroad-Team/Modding-IDE/issues/28) in [Railroad-Team/Modding-IDE](https://github.com/Railroad-Team/Modding-IDE)
+1. 🎉 Merged PR [#41](https://github.com/Railroad-Team/Modding-IDE/pull/41) in [Railroad-Team/Modding-IDE](https://github.com/Railroad-Team/Modding-IDE)
+2. 🗣 Commented on [#40](https://github.com/Railroad-Team/Modding-IDE/issues/40) in [Railroad-Team/Modding-IDE](https://github.com/Railroad-Team/Modding-IDE)
 <!--END_SECTION:activity-->
 </details>
 
