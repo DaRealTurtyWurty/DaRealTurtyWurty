@@ -36,11 +36,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [[Outdated] Events | Detailed Explanation - Minecraft Forge 1.16.4 Modding Tutorial](https://www.youtube.com/watch?v=Gjcz9x6AEVs)
-- [[Outdated] Recipes - Minecraft Forge 1.16.4 Modding Tutorial](https://www.youtube.com/watch?v=TwiBN-8IgKc)
-- [[Outdated] Ore Generation - Minecraft Forge 1.16.4 Modding Tutorial](https://www.youtube.com/watch?v=8s1x4Z87Aw8)
-- [[Outdated] Custom Food - Minecraft Forge 1.16.4 Modding Tutorial](https://www.youtube.com/watch?v=8UAlvY8RGYQ)
-- [[Outdated] Creative Tabs - Minecraft Forge 1.16.4 Modding Tutorial](https://www.youtube.com/watch?v=ynBimFFBjl4)
+- [Events | Detailed Explanation - Minecraft Forge 1.16.4 Modding Tutorial](https://www.youtube.com/watch?v=Gjcz9x6AEVs)
+- [Recipes - Minecraft Forge 1.16.4 Modding Tutorial](https://www.youtube.com/watch?v=TwiBN-8IgKc)
+- [Ore Generation - Minecraft Forge 1.16.4 Modding Tutorial](https://www.youtube.com/watch?v=8s1x4Z87Aw8)
+- [Custom Food - Minecraft Forge 1.16.4 Modding Tutorial](https://www.youtube.com/watch?v=8UAlvY8RGYQ)
+- [Creative Tabs - Minecraft Forge 1.16.4 Modding Tutorial](https://www.youtube.com/watch?v=ynBimFFBjl4)
 <!-- YOUTUBE:END -->
 
 <details>
