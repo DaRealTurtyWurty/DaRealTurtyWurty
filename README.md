@@ -46,8 +46,8 @@
 <details>
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/Railroad-Team/Railroad/pull/11) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
-2. 🎉 Merged PR [#10](https://github.com/Railroad-Team/Railroad/pull/10) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
+1. ❌ Closed PR [#1](https://github.com/DaRealTurtyWurty/CommunityMod/pull/1) in [DaRealTurtyWurty/CommunityMod](https://github.com/DaRealTurtyWurty/CommunityMod)
+2. 🎉 Merged PR [#11](https://github.com/Railroad-Team/Railroad/pull/11) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
 <!--END_SECTION:activity-->
 </details>
 
