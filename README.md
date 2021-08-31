@@ -46,8 +46,8 @@
 <details>
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/DaRealTurtyWurty/CommunityMod/pull/58) in [DaRealTurtyWurty/CommunityMod](https://github.com/DaRealTurtyWurty/CommunityMod)
-2. 🎉 Merged PR [#56](https://github.com/DaRealTurtyWurty/CommunityMod/pull/56) in [DaRealTurtyWurty/CommunityMod](https://github.com/DaRealTurtyWurty/CommunityMod)
+1. 🎉 Merged PR [#2](https://github.com/DaRealTurtyWurty/TurtyBot-New/pull/2) in [DaRealTurtyWurty/TurtyBot-New](https://github.com/DaRealTurtyWurty/TurtyBot-New)
+2. 💪 Opened PR [#2](https://github.com/DaRealTurtyWurty/TurtyBot-New/pull/2) in [DaRealTurtyWurty/TurtyBot-New](https://github.com/DaRealTurtyWurty/TurtyBot-New)
 <!--END_SECTION:activity-->
 </details>
 
