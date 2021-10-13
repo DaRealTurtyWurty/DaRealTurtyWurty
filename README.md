@@ -46,8 +46,8 @@
 <details>
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/Railroad-Team/Railroad/pull/12) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
-2. 💪 Opened PR [#12](https://github.com/Railroad-Team/Railroad/pull/12) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
+1. 🎉 Merged PR [#13](https://github.com/Railroad-Team/Railroad/pull/13) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
+2. ❗️ Closed issue [#5](https://github.com/Railroad-Team/Railroad/issues/5) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
 <!--END_SECTION:activity-->
 </details>
 
