@@ -46,8 +46,8 @@
 <details>
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#109](https://github.com/palexdev/MaterialFX/issues/109) in [palexdev/MaterialFX](https://github.com/palexdev/MaterialFX)
-2. ❗️ Opened issue [#109](https://github.com/palexdev/MaterialFX/issues/109) in [palexdev/MaterialFX](https://github.com/palexdev/MaterialFX)
+1. 💪 Opened PR [#21](https://github.com/Railroad-Team/Railroad/pull/21) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
+2. 🗣 Commented on [#109](https://github.com/palexdev/MaterialFX/issues/109) in [palexdev/MaterialFX](https://github.com/palexdev/MaterialFX)
 <!--END_SECTION:activity-->
 </details>
 
