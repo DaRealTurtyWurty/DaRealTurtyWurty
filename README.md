@@ -36,7 +36,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [1 17 Minecraft Forge Modding Tutorial - Items](https://www.youtube.com/watch?v=0rjtIhWWjns)
+- [1.17 Minecraft Forge Modding Tutorial - Items](https://www.youtube.com/watch?v=0rjtIhWWjns)
 - [Minecraft 1.17.1 Forge Modding Tutorial - Setup](https://www.youtube.com/watch?v=gDGRWX5iTwk)
 - [Railroad IDE Dev Stream](https://www.youtube.com/watch?v=dX13TDGyc-A)
 - [Mod Development + Channel Updates](https://www.youtube.com/watch?v=CiN85A1DXSo)
