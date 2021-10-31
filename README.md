@@ -36,11 +36,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [1.17 Minecraft Forge Modding Tutorial - Advanced Items](https://www.youtube.com/watch?v=UYzBZc5O0Pc)
 - [1.17 Minecraft Forge Modding Tutorial - Creative Tabs](https://www.youtube.com/watch?v=iHt2rHQdJdg)
 - [1.17 Minecraft Forge Modding Tutorial - Spawn Eggs, Loot Tables, Sounds](https://www.youtube.com/watch?v=wQxPWtT8WaE)
 - [1.17 Minecraft Forge Modding Tutorial - Entities](https://www.youtube.com/watch?v=iMJ1kWNWQBQ)
 - [1.17 Minecraft Forge Modding Tutorial - Blocks](https://www.youtube.com/watch?v=iugNcv6A_4g)
-- [1.17 Minecraft Forge Modding Tutorial - Items](https://www.youtube.com/watch?v=0rjtIhWWjns)
 <!-- YOUTUBE:END -->
 
 <details>
