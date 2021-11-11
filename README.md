@@ -36,17 +36,18 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-
-- [Turty's Chemistry Dev Stream 10](https://www.youtube.com/watch?v=rrKszBlWA-o)
-- [Why haven't I updated to 1.16?](https://www.youtube.com/watch?v=-8fJtrZgsMU)
-- [Turty's Chemistry Dev Stream 9](https://www.youtube.com/watch?v=dse5_TXm0Dg)
-- [Turty's Chemistry Dev Stream 8](https://www.youtube.com/watch?v=KdHOVyeyNuA)
-- [Minecraft Modding Tutorial 1.15 | Custom Item Models - Episode 50](https://www.youtube.com/watch?v=PxtRMvhlwjM)
+- [1.17 Minecraft Forge Modding Tutorial - Ore Generation](https://www.youtube.com/watch?v=UUBmLkIf1cw)
+- [1.17 Minecraft Forge Modding Tutorial - Advanced Blocks](https://www.youtube.com/watch?v=ngSgStS-gm4)
+- [1.17 Minecraft Forge Modding Tutorial - Advanced Items](https://www.youtube.com/watch?v=UYzBZc5O0Pc)
+- [1.17 Minecraft Forge Modding Tutorial - Creative Tabs](https://www.youtube.com/watch?v=iHt2rHQdJdg)
+- [1.17 Minecraft Forge Modding Tutorial - Spawn Eggs, Loot Tables, Sounds](https://www.youtube.com/watch?v=wQxPWtT8WaE)
 <!-- YOUTUBE:END -->
 
 <details>
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#21](https://github.com/Railroad-Team/Railroad/pull/21) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
+2. 💪 Opened PR [#21](https://github.com/Railroad-Team/Railroad/pull/21) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
 <!--END_SECTION:activity-->
 </details>
 
