@@ -36,8 +36,8 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [1.17 Minecraft Forge Modding Tutorial - Food](https://www.youtube.com/watch?v=OfwR-FgMyp4)
 - [1.17 Minecraft Forge Modding Tutorial - Tools and Armor](https://www.youtube.com/watch?v=8G1RuP7IuMg)
+- [1.17 Minecraft Forge Modding Tutorial - Food](https://www.youtube.com/watch?v=OfwR-FgMyp4)
 - [1.17 Minecraft Forge Modding Tutorial - Block Entities](https://www.youtube.com/watch?v=yQb46-RQ3Z0)
 - [1.17 Minecraft Forge Modding Tutorial - Ore Generation](https://www.youtube.com/watch?v=UUBmLkIf1cw)
 - [1.17 Minecraft Forge Modding Tutorial - Advanced Blocks](https://www.youtube.com/watch?v=ngSgStS-gm4)
