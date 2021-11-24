@@ -36,8 +36,8 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [1.17 Minecraft Forge Modding Tutorial - Keybinds](https://www.youtube.com/watch?v=6YlhMWtql7k)
 - [1.17 Minecraft Forge Modding Tutorial - Packets](https://www.youtube.com/watch?v=DRdJB3vPFaM)
+- [1.17 Minecraft Forge Modding Tutorial - Keybinds](https://www.youtube.com/watch?v=6YlhMWtql7k)
 - [1.17 Minecraft Forge Modding Tutorial - Simple Recipes](https://www.youtube.com/watch?v=fQGVmMFhlkY)
 - [1.17 Minecraft Forge Modding Tutorial - Tools and Armor](https://www.youtube.com/watch?v=8G1RuP7IuMg)
 - [1.17 Minecraft Forge Modding Tutorial - Food](https://www.youtube.com/watch?v=OfwR-FgMyp4)
