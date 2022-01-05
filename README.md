@@ -36,11 +36,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Turty&#39;s Chemistry Development Stream 2](https://www.youtube.com/watch?v=4U6EmJ3kJII)
 - [Turty&#39;s Chemistry Development Stream 1](https://www.youtube.com/watch?v=cV_JxtOCAVo)
 - [1.18 Minecraft Forge Modding Tutorial - Natural Entity Spawns](https://www.youtube.com/watch?v=iHgnT33WFJg)
 - [1.18 Minecraft Forge Modding Tutorial - Access Transformers](https://www.youtube.com/watch?v=cYMfFOWSh7w)
 - [Minecraft Forge Modding Tutorial - Updating to 1.18](https://www.youtube.com/watch?v=dloDcKe3Hn8)
+- [1.17 Minecraft Forge Modding Tutorial - Packets](https://www.youtube.com/watch?v=DRdJB3vPFaM)
 <!-- YOUTUBE:END -->
 
 <details>
