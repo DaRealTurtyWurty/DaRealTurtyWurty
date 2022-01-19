@@ -46,8 +46,8 @@
 <details>
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/Railroad-Team/Railroad/pull/32) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
-2. 🎉 Merged PR [#31](https://github.com/Railroad-Team/Railroad/pull/31) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
+1. 🎉 Merged PR [#1](https://github.com/DaRealTurtyWurty/Ancientology/pull/1) in [DaRealTurtyWurty/Ancientology](https://github.com/DaRealTurtyWurty/Ancientology)
+2. 🎉 Merged PR [#32](https://github.com/Railroad-Team/Railroad/pull/32) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
 <!--END_SECTION:activity-->
 </details>
 
