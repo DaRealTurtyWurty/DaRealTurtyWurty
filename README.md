@@ -36,11 +36,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [1.18 Minecraft Forge Modding Tutorial - Block Entity Inventories](https://www.youtube.com/watch?v=fA2c4d6k-rQ)
 - [Turty&#39;s Chemistry Development Stream 5](https://www.youtube.com/watch?v=-3zQX5WRplg)
 - [Turty&#39;s Chemistry Development Stream 4](https://www.youtube.com/watch?v=nPWi--70rNg)
 - [Turty&#39;s Chemistry Development Stream 3](https://www.youtube.com/watch?v=YJVs-uwL10k)
 - [Turty&#39;s Chemistry Development Stream 2](https://www.youtube.com/watch?v=4U6EmJ3kJII)
-- [Turty&#39;s Chemistry Development Stream 1](https://www.youtube.com/watch?v=cV_JxtOCAVo)
 <!-- YOUTUBE:END -->
 
 <details>
