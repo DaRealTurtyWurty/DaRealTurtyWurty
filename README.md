@@ -46,8 +46,8 @@
 <details>
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/DaRealTurtyWurty/Ancientology/pull/3) in [DaRealTurtyWurty/Ancientology](https://github.com/DaRealTurtyWurty/Ancientology)
-2. 🎉 Merged PR [#2](https://github.com/DaRealTurtyWurty/Ancientology/pull/2) in [DaRealTurtyWurty/Ancientology](https://github.com/DaRealTurtyWurty/Ancientology)
+1. 🎉 Merged PR [#5](https://github.com/DaRealTurtyWurty/Ancientology/pull/5) in [DaRealTurtyWurty/Ancientology](https://github.com/DaRealTurtyWurty/Ancientology)
+2. 🎉 Merged PR [#4](https://github.com/DaRealTurtyWurty/Ancientology/pull/4) in [DaRealTurtyWurty/Ancientology](https://github.com/DaRealTurtyWurty/Ancientology)
 <!--END_SECTION:activity-->
 </details>
 
