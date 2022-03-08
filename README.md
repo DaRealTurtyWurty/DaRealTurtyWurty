@@ -36,7 +36,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [1.18 Minecraft Forge Modding Tutorial - Block Entity Renderer](https://www.youtube.com/watch?v=Eyf4CLUKevc)
+- [1.18 Minecraft Forge Modding Tutorial - Energy Capabilities](https://www.youtube.com/watch?v=Eyf4CLUKevc)
 - [1.18 Minecraft Forge Modding Tutorial - Block Entity Renderer](https://www.youtube.com/watch?v=FdY2goyJk3k)
 - [1.18 Minecraft Forge Modding Tutorial - Explaining &#39;blit&#39;](https://www.youtube.com/watch?v=MfIYAN41CYs)
 - [1.18 Minecraft Forge Modding Tutorial - Syncing using a container](https://www.youtube.com/watch?v=m-RatSffoT0)
