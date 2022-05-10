@@ -46,8 +46,8 @@
 <details>
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/DaRealTurtyWurty/turtywurty.dev/issues/1) in [DaRealTurtyWurty/turtywurty.dev](https://github.com/DaRealTurtyWurty/turtywurty.dev)
-2. 💪 Opened PR [#15](https://github.com/DaRealTurtyWurty/Ancientology/pull/15) in [DaRealTurtyWurty/Ancientology](https://github.com/DaRealTurtyWurty/Ancientology)
+1. 🗣 Commented on [#8620](https://github.com/MinecraftForge/MinecraftForge/issues/8620) in [MinecraftForge/MinecraftForge](https://github.com/MinecraftForge/MinecraftForge)
+2. ❗️ Opened issue [#1](https://github.com/DaRealTurtyWurty/turtywurty.dev/issues/1) in [DaRealTurtyWurty/turtywurty.dev](https://github.com/DaRealTurtyWurty/turtywurty.dev)
 <!--END_SECTION:activity-->
 </details>
 
