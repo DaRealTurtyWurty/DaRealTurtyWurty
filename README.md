@@ -46,8 +46,8 @@
 <details>
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/Railroad-Team/Railroad/pull/36) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
-2. 🎉 Merged PR [#39](https://github.com/Railroad-Team/Railroad/pull/39) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
+1. ❗️ Opened issue [#203](https://github.com/palexdev/MaterialFX/issues/203) in [palexdev/MaterialFX](https://github.com/palexdev/MaterialFX)
+2. 🎉 Merged PR [#36](https://github.com/Railroad-Team/Railroad/pull/36) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
 <!--END_SECTION:activity-->
 </details>
 
