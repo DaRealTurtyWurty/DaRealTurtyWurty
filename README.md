@@ -36,11 +36,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [1.19 Minecraft Forge Modding Tutorial - Setting Up](https://www.youtube.com/watch?v=Dfx1mXcg2h8)
 - [1.18 Minecraft Forge Modding Tutorial - Energy Capabilities](https://www.youtube.com/watch?v=Eyf4CLUKevc)
 - [1.18 Minecraft Forge Modding Tutorial - Block Entity Renderer](https://www.youtube.com/watch?v=FdY2goyJk3k)
 - [1.18 Minecraft Forge Modding Tutorial - Explaining &#39;blit&#39;](https://www.youtube.com/watch?v=MfIYAN41CYs)
 - [1.18 Minecraft Forge Modding Tutorial - Syncing using a container](https://www.youtube.com/watch?v=m-RatSffoT0)
-- [1.18 Minecraft Forge Modding Tutorial - Fixing Our Container](https://www.youtube.com/watch?v=5OkvPjbTLWY)
 <!-- YOUTUBE:END -->
 
 <details>
