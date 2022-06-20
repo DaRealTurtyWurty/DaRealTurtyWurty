@@ -36,11 +36,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [1.19 Minecraft Forge Modding Tutorial - Blocks](https://www.youtube.com/watch?v=kyl5je16lJY)
 - [1.19 Minecraft Forge Modding Tutorial - Items](https://www.youtube.com/watch?v=V6ZhHAcQrbY)
 - [1.19 Minecraft Forge Modding Tutorial - Setting Up](https://www.youtube.com/watch?v=Dfx1mXcg2h8)
 - [1.18 Minecraft Forge Modding Tutorial - Energy Capabilities](https://www.youtube.com/watch?v=Eyf4CLUKevc)
 - [1.18 Minecraft Forge Modding Tutorial - Block Entity Renderer](https://www.youtube.com/watch?v=FdY2goyJk3k)
-- [1.18 Minecraft Forge Modding Tutorial - Explaining &#39;blit&#39;](https://www.youtube.com/watch?v=MfIYAN41CYs)
 <!-- YOUTUBE:END -->
 
 <details>
