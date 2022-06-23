@@ -36,11 +36,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Turty&#39;s Chemistry Development Stream](https://www.youtube.com/watch?v=wWyFTO0XWzc)
 - [1.19 Minecraft Forge Modding Tutorial - Better Block Registry](https://www.youtube.com/watch?v=bC7pcL37IsM)
 - [1.19 Minecraft Forge Modding Tutorial - Blocks](https://www.youtube.com/watch?v=dlTHQ25Zwbk)
 - [1.19 Minecraft Forge Modding Tutorial - Items](https://www.youtube.com/watch?v=V6ZhHAcQrbY)
 - [1.19 Minecraft Forge Modding Tutorial - Setting Up](https://www.youtube.com/watch?v=Dfx1mXcg2h8)
-- [1.18 Minecraft Forge Modding Tutorial - Energy Capabilities](https://www.youtube.com/watch?v=Eyf4CLUKevc)
 <!-- YOUTUBE:END -->
 
 <details>
