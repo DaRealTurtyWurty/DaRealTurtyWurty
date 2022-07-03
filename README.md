@@ -46,8 +46,8 @@
 <details>
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#180](https://github.com/eclipse-jdt/eclipse.jdt.core/issues/180) in [eclipse-jdt/eclipse.jdt.core](https://github.com/eclipse-jdt/eclipse.jdt.core)
-2. ❗️ Opened issue [#203](https://github.com/palexdev/MaterialFX/issues/203) in [palexdev/MaterialFX](https://github.com/palexdev/MaterialFX)
+1. ❗️ Closed issue [#2](https://github.com/DaRealTurtyWurty/SuperTurtyBot/issues/2) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
+2. 🗣 Commented on [#2](https://github.com/DaRealTurtyWurty/SuperTurtyBot/issues/2) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
 <!--END_SECTION:activity-->
 </details>
 
