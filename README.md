@@ -36,11 +36,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [1.19 Minecraft Forge Modding Tutorial - Tools](https://www.youtube.com/watch?v=DQegfqYt_vA)
 - [1.19 Minecraft Forge Modding Tutorial - Food](https://www.youtube.com/watch?v=Adv9okWK3LM)
 - [1.19 Minecraft Forge Modding Tutorial - Creative Tabs](https://www.youtube.com/watch?v=Eb204w_vCyA)
 - [Turty&#39;s Chemistry Development Stream](https://www.youtube.com/watch?v=Ya7IVfydK9Q)
 - [1.19 Minecraft Forge Modding Tutorial - Block Drops](https://www.youtube.com/watch?v=5T_vKs4PVBQ)
-- [Turty&#39;s Chemistry Development Stream](https://www.youtube.com/watch?v=wWyFTO0XWzc)
 <!-- YOUTUBE:END -->
 
 <details>
