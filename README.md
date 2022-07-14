@@ -36,11 +36,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [1.19 Minecraft Forge Modding Tutorial - Recipes](https://www.youtube.com/watch?v=k9x4-j2q8Yw)
 - [1.19 Minecraft Forge Modding Tutorial - Tags](https://www.youtube.com/watch?v=JdO5wBeRGX0)
 - [1.19 Minecraft Forge Modding Tutorial - Armor](https://www.youtube.com/watch?v=uq1VxYI9bsg)
 - [1.19 Minecraft Forge Modding Tutorial - Tools](https://www.youtube.com/watch?v=DQegfqYt_vA)
 - [1.19 Minecraft Forge Modding Tutorial - Food](https://www.youtube.com/watch?v=Adv9okWK3LM)
-- [1.19 Minecraft Forge Modding Tutorial - Creative Tabs](https://www.youtube.com/watch?v=Eb204w_vCyA)
 <!-- YOUTUBE:END -->
 
 <details>
