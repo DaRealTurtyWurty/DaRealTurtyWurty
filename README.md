@@ -46,8 +46,8 @@
 <details>
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/DaRealTurtyWurty/SuperTurtyBot/issues/2) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
-2. 🗣 Commented on [#2](https://github.com/DaRealTurtyWurty/SuperTurtyBot/issues/2) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
+1. 🎉 Merged PR [#50](https://github.com/Railroad-Team/Railroad/pull/50) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
+2. 🗣 Commented on [#50](https://github.com/Railroad-Team/Railroad/issues/50) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
 <!--END_SECTION:activity-->
 </details>
 
