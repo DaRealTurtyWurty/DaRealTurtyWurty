@@ -36,11 +36,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [1.19 Minecraft Forge Modding Tutorial - Flowers](https://www.youtube.com/watch?v=hR2KeP2i3Vw)
 - [1.19 Minecraft Forge Modding Tutorial - Animated Textures](https://www.youtube.com/watch?v=oaIyYO1Taag)
 - [1.19 Minecraft Forge Modding Tutorial - Fuels](https://www.youtube.com/watch?v=o8t4pkg1vw0)
 - [1.19 Minecraft Forge Modding Tutorial - Recipes](https://www.youtube.com/watch?v=k9x4-j2q8Yw)
 - [1.19 Minecraft Forge Modding Tutorial - Tags](https://www.youtube.com/watch?v=JdO5wBeRGX0)
-- [1.19 Minecraft Forge Modding Tutorial - Armor](https://www.youtube.com/watch?v=uq1VxYI9bsg)
 <!-- YOUTUBE:END -->
 
 <details>
