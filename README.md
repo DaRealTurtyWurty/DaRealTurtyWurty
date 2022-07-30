@@ -46,8 +46,8 @@
 <details>
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/Railroad-Team/Railroad/pull/51) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
-2. 🎉 Merged PR [#15](https://github.com/DaRealTurtyWurty/SuperTurtyBot/pull/15) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
+1. 🎉 Merged PR [#16](https://github.com/DaRealTurtyWurty/SuperTurtyBot/pull/16) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
+2. 💪 Opened PR [#16](https://github.com/DaRealTurtyWurty/SuperTurtyBot/pull/16) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
 <!--END_SECTION:activity-->
 </details>
 
