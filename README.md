@@ -46,8 +46,8 @@
 <details>
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/BrassMC/BrassLoader/pull/2) in [BrassMC/BrassLoader](https://github.com/BrassMC/BrassLoader)
-2. 🎉 Merged PR [#2](https://github.com/BrassMC/BrassAPI/pull/2) in [BrassMC/BrassAPI](https://github.com/BrassMC/BrassAPI)
+1. 🎉 Merged PR [#3](https://github.com/BrassMC/BrassLoader/pull/3) in [BrassMC/BrassLoader](https://github.com/BrassMC/BrassLoader)
+2. 🎉 Merged PR [#2](https://github.com/BrassMC/BrassLoader/pull/2) in [BrassMC/BrassLoader](https://github.com/BrassMC/BrassLoader)
 <!--END_SECTION:activity-->
 </details>
 
