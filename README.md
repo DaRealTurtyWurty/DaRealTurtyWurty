@@ -46,8 +46,8 @@
 <details>
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1510](https://github.com/JannisX11/blockbench/issues/1510) in [JannisX11/blockbench](https://github.com/JannisX11/blockbench)
-2. 🎉 Merged PR [#25](https://github.com/DaRealTurtyWurty/SuperTurtyBot/pull/25) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
+1. 🎉 Merged PR [#5](https://github.com/BrassMC/BrassLoader/pull/5) in [BrassMC/BrassLoader](https://github.com/BrassMC/BrassLoader)
+2. ❗️ Opened issue [#1510](https://github.com/JannisX11/blockbench/issues/1510) in [JannisX11/blockbench](https://github.com/JannisX11/blockbench)
 <!--END_SECTION:activity-->
 </details>
 
