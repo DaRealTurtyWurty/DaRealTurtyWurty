@@ -36,11 +36,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [1.19 Minecraft Forge Modding Tutorial - Custom Block and Item Models](https://www.youtube.com/watch?v=U7pM-c-gb5w)
 - [1.19 Minecraft Forge Modding Tutorial - Ore Generation](https://www.youtube.com/watch?v=ONyOsUzcwRw)
 - [1.19 Minecraft Forge Modding Tutorial - Advanced Blocks](https://www.youtube.com/watch?v=crH5tcxa4X4)
 - [1.19 Minecraft Forge Modding Tutorial - Advanced Items](https://www.youtube.com/watch?v=jQBLfMqJdg0)
 - [1.19 Minecraft Forge Modding Tutorial - Paintings](https://www.youtube.com/watch?v=lU3AEdmanig)
-- [1.19 Minecraft Forge Modding Tutorial - Flowers](https://www.youtube.com/watch?v=hR2KeP2i3Vw)
 <!-- YOUTUBE:END -->
 
 <details>
