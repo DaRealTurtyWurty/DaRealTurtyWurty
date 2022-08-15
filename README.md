@@ -46,8 +46,8 @@
 <details>
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/BrassMC/BrassLoader/pull/7) in [BrassMC/BrassLoader](https://github.com/BrassMC/BrassLoader)
-2. 🗣 Commented on [#7](https://github.com/BrassMC/BrassLoader/issues/7) in [BrassMC/BrassLoader](https://github.com/BrassMC/BrassLoader)
+1. 🎉 Merged PR [#26](https://github.com/DaRealTurtyWurty/SuperTurtyBot/pull/26) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
+2. 🎉 Merged PR [#7](https://github.com/BrassMC/BrassLoader/pull/7) in [BrassMC/BrassLoader](https://github.com/BrassMC/BrassLoader)
 <!--END_SECTION:activity-->
 </details>
 
