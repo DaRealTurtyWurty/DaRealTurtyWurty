@@ -46,8 +46,8 @@
 <details>
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#180](https://github.com/eclipse-jdt/eclipse.jdt.core/issues/180) in [eclipse-jdt/eclipse.jdt.core](https://github.com/eclipse-jdt/eclipse.jdt.core)
-2. 🎉 Merged PR [#26](https://github.com/DaRealTurtyWurty/SuperTurtyBot/pull/26) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
+1. 🎉 Merged PR [#28](https://github.com/DaRealTurtyWurty/SuperTurtyBot/pull/28) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
+2. 🎉 Merged PR [#29](https://github.com/DaRealTurtyWurty/SuperTurtyBot/pull/29) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
 <!--END_SECTION:activity-->
 </details>
 
