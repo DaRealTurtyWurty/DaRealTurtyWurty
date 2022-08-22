@@ -7,8 +7,8 @@
 ## I'm a programmer and a games developer!
 
 - 🎓 I do Minecraft Modding Tutorials on [my YouTube Channel][youtube]
-- 🏫 I'm currently learning C# for my Games Development College Course
-- 🎮 I am slowly working in my own game which doesn't use any existing game engine.
+- 🏫 I'm currently starting my University course in Software Engineering
+- 🎮 I am working on my own mod loader for minecraft.
 - ⚡ Fun fact: My favourite colour is orange.
 
 ### Connect with me:
@@ -58,8 +58,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealTurtyWurty&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![DaRealTurtyWurty's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DaRealTurtyWurty)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Spotify](https://novatorem-44et1xs1t.vercel.app/api/spotify)](https://open.spotify.com/user/TurtyWurty)
 
 [youtube]: https://youtube.com/TurtyWurty
 [discord]: https://discord.gg/d5cGhKQ
