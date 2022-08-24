@@ -46,8 +46,8 @@
 <details>
     <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/DaRealTurtyWurty/SuperTurtyBot/pull/30) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
-2. 🎉 Merged PR [#28](https://github.com/DaRealTurtyWurty/SuperTurtyBot/pull/28) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
+1. 🎉 Merged PR [#10](https://github.com/BrassMC/BrassLoader/pull/10) in [BrassMC/BrassLoader](https://github.com/BrassMC/BrassLoader)
+2. 🎉 Merged PR [#30](https://github.com/DaRealTurtyWurty/SuperTurtyBot/pull/30) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
 <!--END_SECTION:activity-->
 </details>
 
