@@ -53,7 +53,7 @@
 
 <details>
     <summary>:zap: Github Stats</summary>
-    <img align="left" alt="DaRealTurtyWurty's GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=DaRealTurtyWurty&show_icons=true&hide_border=true&theme=dark"/>
+    <img align="left" alt="DaRealTurtyWurty's GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=DaRealTurtyWurty&show_icons=true&hide_border=true&theme=dark"/><br/>
 </details>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealTurtyWurty&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
