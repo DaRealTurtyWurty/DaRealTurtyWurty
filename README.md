@@ -57,7 +57,7 @@
 </details>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealTurtyWurty&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![DaRealTurtyWurty's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DaRealTurtyWurty)](https://github.com/anuraghazra/github-readme-stats)
+[![DaRealTurtyWurty's wakatime stats](https://github-readme-stats.vercel.app/api?username=DaRealTurtyWurty)](https://github.com/anuraghazra/github-readme-stats)
 
 [youtube]: https://youtube.com/TurtyWurty
 [discord]: https://discord.gg/d5cGhKQ
