@@ -45,8 +45,8 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#31](https://github.com/DaRealTurtyWurty/SuperTurtyBot/pull/31) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
-2. 🎉 Merged PR [#9](https://github.com/BrassMC/BrassLoader/pull/9) in [BrassMC/BrassLoader](https://github.com/BrassMC/BrassLoader)
+1. ❌ Closed PR [#3](https://github.com/DaRealTurtyWurty/SuperTurtyBot/pull/3) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
+2. 🗣 Commented on [#3](https://github.com/DaRealTurtyWurty/SuperTurtyBot/issues/3) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
 <!--END_SECTION:activity-->
 
 ### Github Stats
