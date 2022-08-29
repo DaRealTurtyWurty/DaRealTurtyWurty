@@ -45,8 +45,8 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/BrassMC/BrassLoader/pull/11) in [BrassMC/BrassLoader](https://github.com/BrassMC/BrassLoader)
-2. ❌ Closed PR [#3](https://github.com/DaRealTurtyWurty/SuperTurtyBot/pull/3) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
+1. 💪 Opened PR [#14](https://github.com/BrassMC/BrassLoader/pull/14) in [BrassMC/BrassLoader](https://github.com/BrassMC/BrassLoader)
+2. ❌ Closed PR [#13](https://github.com/BrassMC/BrassLoader/pull/13) in [BrassMC/BrassLoader](https://github.com/BrassMC/BrassLoader)
 <!--END_SECTION:activity-->
 
 ### Github Stats
