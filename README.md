@@ -49,10 +49,6 @@
 2. ❌ Closed PR [#13](https://github.com/BrassMC/BrassLoader/pull/13) in [BrassMC/BrassLoader](https://github.com/BrassMC/BrassLoader)
 <!--END_SECTION:activity-->
 
-### Github Stats
-<img align="left" alt="DaRealTurtyWurty's GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=DaRealTurtyWurty&show_icons=true&hide_border=true&theme=dark"/>
-</br></br></br></br></br></br></br></br></br>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealTurtyWurty&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![DaRealTurtyWurty's wakatime stats](https://github-readme-stats.vercel.app/api?username=DaRealTurtyWurty)](https://github.com/anuraghazra/github-readme-stats)
