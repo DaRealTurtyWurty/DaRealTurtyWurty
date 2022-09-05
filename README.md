@@ -45,8 +45,8 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/DaRealTurtyWurty/TurtyChemistry/pull/11) in [DaRealTurtyWurty/TurtyChemistry](https://github.com/DaRealTurtyWurty/TurtyChemistry)
-2. 🎉 Merged PR [#16](https://github.com/DaRealTurtyWurty/TurtyChemistry/pull/16) in [DaRealTurtyWurty/TurtyChemistry](https://github.com/DaRealTurtyWurty/TurtyChemistry)
+1. ❌ Closed PR [#17](https://github.com/DaRealTurtyWurty/TurtyChemistry/pull/17) in [DaRealTurtyWurty/TurtyChemistry](https://github.com/DaRealTurtyWurty/TurtyChemistry)
+2. 🗣 Commented on [#17](https://github.com/DaRealTurtyWurty/TurtyChemistry/issues/17) in [DaRealTurtyWurty/TurtyChemistry](https://github.com/DaRealTurtyWurty/TurtyChemistry)
 <!--END_SECTION:activity-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealTurtyWurty&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
