@@ -36,11 +36,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Turty&#39;s Chemistry Development Stream](https://www.youtube.com/watch?v=INI2Y6mAFzI)
 - [1.19 Minecraft Forge Modding Tutorial - Spawn Eggs](https://www.youtube.com/watch?v=x2eA0L9RKrU)
 - [1.19 Minecraft Forge Modding Tutorial - Living Entities](https://www.youtube.com/watch?v=XBIXn7s-fMo)
 - [1.19 Minecraft Forge Modding Tutorial - Custom Fluids](https://www.youtube.com/watch?v=ESEI1-tcdHI)
 - [1.19 Minecraft Forge Modding Tutorial - Custom Block and Item Models](https://www.youtube.com/watch?v=U7pM-c-gb5w)
-- [1.19 Minecraft Forge Modding Tutorial - Ore Generation](https://www.youtube.com/watch?v=ONyOsUzcwRw)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
