@@ -45,8 +45,8 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/BrassMC/.github/pull/2) in [BrassMC/.github](https://github.com/BrassMC/.github)
-2. ❌ Closed PR [#2](https://github.com/BoonelDanForever/TurtyChemistry/pull/2) in [BoonelDanForever/TurtyChemistry](https://github.com/BoonelDanForever/TurtyChemistry)
+1. 🗣 Commented on [#15](https://github.com/BrassMC/BrassLoader/issues/15) in [BrassMC/BrassLoader](https://github.com/BrassMC/BrassLoader)
+2. 🎉 Merged PR [#2](https://github.com/BrassMC/.github/pull/2) in [BrassMC/.github](https://github.com/BrassMC/.github)
 <!--END_SECTION:activity-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealTurtyWurty&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
