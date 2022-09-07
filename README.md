@@ -1,4 +1,4 @@
-![Discord](https://img.shields.io/discord/621352915034177566?color=7289DA&label=My%20Discord%20Server&logo=Discord&style=plastic)
+![Discord](https://img.shields.io/discord/1017111640023506974?color=7289DA&label=My%20Discord%20Server&logo=Discord&style=plastic)
 ![Twitter Follow](https://img.shields.io/twitter/follow/RealTurtyWurty?color=1DA1F2&label=Follow%20me%20on%20Twitter&logo=Twitter&logoColor=1DA1F2&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/DaRealTurtyWurty?style=social)
 
@@ -54,7 +54,7 @@
 [![DaRealTurtyWurty's wakatime stats](https://github-readme-stats.vercel.app/api?username=DaRealTurtyWurty)](https://github.com/anuraghazra/github-readme-stats)
 
 [youtube]: https://youtube.com/TurtyWurty
-[discord]: https://discord.gg/jCTnnhxc7J
+[discord]: https://discord.gg/BAYB3A38wn
 [vscode]: https://code.visualstudio.com
 [java]: https://www.java.com
 [csharp]: https://docs.microsoft.com/en-us/dotnet/csharp
