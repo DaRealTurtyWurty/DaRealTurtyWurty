@@ -36,11 +36,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [1.19 Minecraft Forge Modding Tutorial - Block Entities](https://www.youtube.com/watch?v=EE2QrhTQaos)
 - [JOIN THE DISCORD 😩🤓🤖🎵](https://www.youtube.com/watch?v=nZao07s_Iuc)
 - [1.19 Minecraft Forge Modding Tutorial - Natural Entity Spawning](https://www.youtube.com/watch?v=v5iaW3uRB5U)
 - [Turty&#39;s Chemistry Development Stream](https://www.youtube.com/watch?v=INI2Y6mAFzI)
 - [1.19 Minecraft Forge Modding Tutorial - Spawn Eggs](https://www.youtube.com/watch?v=x2eA0L9RKrU)
-- [1.19 Minecraft Forge Modding Tutorial - Living Entities](https://www.youtube.com/watch?v=XBIXn7s-fMo)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
