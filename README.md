@@ -36,11 +36,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Java Tutorial #1 - Installing java](https://www.youtube.com/watch?v=maFN1J1YRmg)
 - [1.19 Minecraft Forge Modding Tutorial - Containers](https://www.youtube.com/watch?v=oAODYruayFs)
 - [1.19 Minecraft Forge Modding Tutorial - Inventory Capability](https://www.youtube.com/watch?v=XRaFZzUZTxM)
 - [1.19 Minecraft Forge Modding Tutorial - Block Entities](https://www.youtube.com/watch?v=EE2QrhTQaos)
 - [JOIN THE DISCORD 😩🤓🤖🎵](https://www.youtube.com/watch?v=nZao07s_Iuc)
-- [1.19 Minecraft Forge Modding Tutorial - Natural Entity Spawning](https://www.youtube.com/watch?v=v5iaW3uRB5U)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
