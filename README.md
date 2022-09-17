@@ -36,7 +36,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Java Tutorial #1 - Installing java](https://www.youtube.com/watch?v=maFN1J1YRmg)
+- [Java Tutorial #1 - Installing java](https://www.youtube.com/watch?v=kqAO03O5P8U)
 - [1.19 Minecraft Forge Modding Tutorial - Containers](https://www.youtube.com/watch?v=oAODYruayFs)
 - [1.19 Minecraft Forge Modding Tutorial - Inventory Capability](https://www.youtube.com/watch?v=XRaFZzUZTxM)
 - [1.19 Minecraft Forge Modding Tutorial - Block Entities](https://www.youtube.com/watch?v=EE2QrhTQaos)
