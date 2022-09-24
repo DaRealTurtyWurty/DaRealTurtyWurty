@@ -36,11 +36,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Java Tutorial #3 - Printing to the console](https://www.youtube.com/watch?v=JoAbw7VWGNM)
 - [Java Tutorial #2 - Creating a Java Project](https://www.youtube.com/watch?v=TjhgE5hWHlE)
 - [Java Tutorial #1 - Installing Java](https://www.youtube.com/watch?v=kqAO03O5P8U)
 - [1.19 Minecraft Forge Modding Tutorial - Containers](https://www.youtube.com/watch?v=oAODYruayFs)
 - [1.19 Minecraft Forge Modding Tutorial - Inventory Capability](https://www.youtube.com/watch?v=XRaFZzUZTxM)
-- [1.19 Minecraft Forge Modding Tutorial - Block Entities](https://www.youtube.com/watch?v=EE2QrhTQaos)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
