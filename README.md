@@ -45,8 +45,8 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9094](https://github.com/MinecraftForge/MinecraftForge/issues/9094) in [MinecraftForge/MinecraftForge](https://github.com/MinecraftForge/MinecraftForge)
-2. 🎉 Merged PR [#54](https://github.com/Railroad-Team/Railroad/pull/54) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
+1. 🎉 Merged PR [#3](https://github.com/BrassMC/BrassAPI/pull/3) in [BrassMC/BrassAPI](https://github.com/BrassMC/BrassAPI)
+2. 🗣 Commented on [#15](https://github.com/BrassMC/BrassLoader/issues/15) in [BrassMC/BrassLoader](https://github.com/BrassMC/BrassLoader)
 <!--END_SECTION:activity-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealTurtyWurty&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
