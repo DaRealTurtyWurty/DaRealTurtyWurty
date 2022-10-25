@@ -45,8 +45,8 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#28](https://github.com/w3stling/rssreader/issues/28) in [w3stling/rssreader](https://github.com/w3stling/rssreader)
-2. 🎉 Merged PR [#3](https://github.com/BrassMC/BrassAPI/pull/3) in [BrassMC/BrassAPI](https://github.com/BrassMC/BrassAPI)
+1. 🎉 Merged PR [#55](https://github.com/DaRealTurtyWurty/SuperTurtyBot/pull/55) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
+2. 🎉 Merged PR [#53](https://github.com/DaRealTurtyWurty/SuperTurtyBot/pull/53) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
 <!--END_SECTION:activity-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealTurtyWurty&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
