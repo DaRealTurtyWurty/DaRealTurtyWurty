@@ -36,11 +36,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [So, what&#39;s next?](https://www.youtube.com/watch?v=2KCHdth3IEg)
 - [Java Tutorial #6 - Primitive Data Types](https://www.youtube.com/watch?v=8o5MpO51aNY)
 - [Java Tutorial #5 - Swapping Variables](https://www.youtube.com/watch?v=PvdoGjgznIk)
 - [Java Tutorial #4 - Variables](https://www.youtube.com/watch?v=yyuvGuUQOzs)
 - [Java Tutorial #3 - Printing to the console](https://www.youtube.com/watch?v=JoAbw7VWGNM)
-- [Java Tutorial #2 - Creating a Java Project](https://www.youtube.com/watch?v=TjhgE5hWHlE)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
