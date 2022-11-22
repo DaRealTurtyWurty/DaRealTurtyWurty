@@ -36,11 +36,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Java Tutorial #10 - Scope](https://www.youtube.com/watch?v=CDCq_VF5CAw)
 - [Java Tutorial #9 - If Statements](https://www.youtube.com/watch?v=h66ljG3rYz4)
 - [Java Tutorial #8 - User Input from Console](https://www.youtube.com/watch?v=lLkvTAh32_8)
 - [Java Tutorial #7 - Strings](https://www.youtube.com/watch?v=6QD9vLWhprU)
 - [So, what&#39;s next?](https://www.youtube.com/watch?v=2KCHdth3IEg)
-- [Java Tutorial #6 - Primitive Data Types](https://www.youtube.com/watch?v=8o5MpO51aNY)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
