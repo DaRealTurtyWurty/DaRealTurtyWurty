@@ -36,11 +36,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Industria Devlog #3 - Research and Rubber](https://www.youtube.com/watch?v=f206EvXKshU)
 - [Industria Devlog #2 - The Start of Power Generation](https://www.youtube.com/watch?v=3DraiRVee_Q)
 - [Industria Devlog #1](https://www.youtube.com/watch?v=U5uiYmPSjbk)
 - [Java Tutorial #11 - If-Else Statements](https://www.youtube.com/watch?v=ZXL7tJWqgos)
 - [Java Tutorial #10 - Scope](https://www.youtube.com/watch?v=CDCq_VF5CAw)
-- [Java Tutorial #9 - If Statements](https://www.youtube.com/watch?v=h66ljG3rYz4)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
