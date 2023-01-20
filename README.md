@@ -45,8 +45,8 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#85](https://github.com/DaRealTurtyWurty/SuperTurtyBot/pull/85) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
-2. 🎉 Merged PR [#86](https://github.com/DaRealTurtyWurty/SuperTurtyBot/pull/86) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
+1. 🎉 Merged PR [#90](https://github.com/DaRealTurtyWurty/SuperTurtyBot/pull/90) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
+2. 🎉 Merged PR [#85](https://github.com/DaRealTurtyWurty/SuperTurtyBot/pull/85) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
 <!--END_SECTION:activity-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealTurtyWurty&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
