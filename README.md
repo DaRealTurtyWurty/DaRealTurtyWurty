@@ -45,8 +45,8 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/connorx2000/Create-CC/pull/1) in [connorx2000/Create-CC](https://github.com/connorx2000/Create-CC)
-2. ❌ Closed PR [#1](https://github.com/DaRealTurtyWurty/Industria/pull/1) in [DaRealTurtyWurty/Industria](https://github.com/DaRealTurtyWurty/Industria)
+1. 🎉 Merged PR [#1](https://github.com/DaRealTurtyWurty/turtywurty-dev/pull/1) in [DaRealTurtyWurty/turtywurty-dev](https://github.com/DaRealTurtyWurty/turtywurty-dev)
+2. 💪 Opened PR [#1](https://github.com/connorx2000/Create-CC/pull/1) in [connorx2000/Create-CC](https://github.com/connorx2000/Create-CC)
 <!--END_SECTION:activity-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealTurtyWurty&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
