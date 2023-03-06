@@ -45,8 +45,8 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#20](https://github.com/Railroad-Team/Railroad/pull/20) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
-2. 🎉 Merged PR [#91](https://github.com/DaRealTurtyWurty/SuperTurtyBot/pull/91) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
+1. 🎉 Merged PR [#99](https://github.com/DaRealTurtyWurty/SuperTurtyBot/pull/99) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
+2. 🎉 Merged PR [#93](https://github.com/DaRealTurtyWurty/SuperTurtyBot/pull/93) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
 <!--END_SECTION:activity-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealTurtyWurty&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
