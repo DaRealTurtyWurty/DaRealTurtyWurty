@@ -36,8 +36,8 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Industria Devlog #5 - Back to the Agitator &lpar;and more...&rpar;](https://www.youtube.com/watch?v=RVTuJBqPRvw)
 - [Industria - Live Development 3](https://www.youtube.com/watch?v=J5Npd94Frco)
+- [Industria Devlog #5 - Back to the Agitator &lpar;and more...&rpar;](https://www.youtube.com/watch?v=RVTuJBqPRvw)
 - [Industria - Live Development](https://www.youtube.com/watch?v=QRxa8Au3HUA)
 - [Industria - Live Development](https://www.youtube.com/watch?v=a3aCbYEXFXs)
 - [Meme Modding Competition](https://www.youtube.com/watch?v=mRVE14eTqDk)
