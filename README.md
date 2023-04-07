@@ -36,11 +36,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Industria - Live Development](https://www.youtube.com/watch?v=a3aCbYEXFXs)
 - [Meme Modding Competition](https://www.youtube.com/watch?v=mRVE14eTqDk)
 - [Industria Devlog #4 - Polishing and catching up](https://www.youtube.com/watch?v=Rd1YqaQ_ZqM)
 - [Industria Devlog #3 - Research and Rubber](https://www.youtube.com/watch?v=f206EvXKshU)
 - [Industria Devlog #2 - The Start of Power Generation](https://www.youtube.com/watch?v=3DraiRVee_Q)
+- [Industria Devlog #1](https://www.youtube.com/watch?v=U5uiYmPSjbk)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
