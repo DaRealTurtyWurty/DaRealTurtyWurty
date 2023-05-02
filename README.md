@@ -45,8 +45,8 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/DaRealTurtyWurty/Industria/pull/3) in [DaRealTurtyWurty/Industria](https://github.com/DaRealTurtyWurty/Industria)
-2. 💪 Opened PR [#3](https://github.com/DaRealTurtyWurty/Industria/pull/3) in [DaRealTurtyWurty/Industria](https://github.com/DaRealTurtyWurty/Industria)
+1. 💪 Opened PR [#3](https://github.com/Sweetygamer2/why_i_dont_care_about_your_opinion/pull/3) in [Sweetygamer2/why_i_dont_care_about_your_opinion](https://github.com/Sweetygamer2/why_i_dont_care_about_your_opinion)
+2. 🎉 Merged PR [#3](https://github.com/DaRealTurtyWurty/Industria/pull/3) in [DaRealTurtyWurty/Industria](https://github.com/DaRealTurtyWurty/Industria)
 <!--END_SECTION:activity-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealTurtyWurty&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
