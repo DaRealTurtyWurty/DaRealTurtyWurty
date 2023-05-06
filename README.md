@@ -45,8 +45,8 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/Sweetygamer2/why_i_dont_care_about_your_opinion/issues/2) in [Sweetygamer2/why_i_dont_care_about_your_opinion](https://github.com/Sweetygamer2/why_i_dont_care_about_your_opinion)
-2. 💪 Opened PR [#3](https://github.com/Sweetygamer2/why_i_dont_care_about_your_opinion/pull/3) in [Sweetygamer2/why_i_dont_care_about_your_opinion](https://github.com/Sweetygamer2/why_i_dont_care_about_your_opinion)
+1. 🎉 Merged PR [#118](https://github.com/DaRealTurtyWurty/SuperTurtyBot/pull/118) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
+2. 💪 Opened PR [#118](https://github.com/DaRealTurtyWurty/SuperTurtyBot/pull/118) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
 <!--END_SECTION:activity-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealTurtyWurty&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
