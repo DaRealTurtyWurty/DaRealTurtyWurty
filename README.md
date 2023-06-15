@@ -36,11 +36,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [1.20 Minecraft Forge Modding Tutorial - Blocks](https://www.youtube.com/watch?v=KPMiUnp0gp4)
 - [1.20 Minecraft Forge Modding Tutorial - Items and Food](https://www.youtube.com/watch?v=DhoX9cmAZqA)
 - [1.20 Minecraft Forge Modding Tutorial - Setting Up](https://www.youtube.com/watch?v=334wakLzQFY)
 - [Industria - Live Development 3](https://www.youtube.com/watch?v=J5Npd94Frco)
 - [Industria Devlog #5 - Back to the Agitator &lpar;and more...&rpar;](https://www.youtube.com/watch?v=RVTuJBqPRvw)
-- [Industria - Live Development](https://www.youtube.com/watch?v=QRxa8Au3HUA)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
