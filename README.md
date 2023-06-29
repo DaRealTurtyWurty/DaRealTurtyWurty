@@ -36,11 +36,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [1.20 Minecraft Forge Modding Tutorial - Living Entities](https://www.youtube.com/watch?v=nZHU6hTAI0o)
 - [1.20 Minecraft Forge Modding Tutorial - Recipes](https://www.youtube.com/watch?v=wMSxrstYKBI)
 - [1.20 Minecraft Forge Modding Tutorial - Ore Generation](https://www.youtube.com/watch?v=aOAavvVzHI8)
 - [1.20 Minecraft Forge Modding Tutorial - Tools and Armor](https://www.youtube.com/watch?v=ey90H6gKVbE)
 - [1.20 Minecraft Forge Modding Tutorial - Creative Tabs](https://www.youtube.com/watch?v=N_evngwyOnM)
-- [1.20 Minecraft Forge Modding Tutorial - Blocks](https://www.youtube.com/watch?v=KPMiUnp0gp4)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
