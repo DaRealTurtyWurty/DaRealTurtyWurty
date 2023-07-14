@@ -36,11 +36,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [1.20 Minecraft Forge Modding Tutorial - Ticking Block Entities](https://www.youtube.com/watch?v=qguxWE5gDCs)
 - [1.20 Minecraft Forge Modding Tutorial - Block Entities and Block States](https://www.youtube.com/watch?v=b1tLNB4RHgQ)
 - [1.20 Minecraft Forge Modding Tutorial - Keyframe Entity Animations](https://www.youtube.com/watch?v=9k7-yBEaF3Q)
 - [1.20 Minecraft Forge Modding Tutorial - Basic Entity Animations](https://www.youtube.com/watch?v=aAfft7Lkps4)
 - [1.20 Minecraft Forge Modding Tutorial - Living Entities](https://www.youtube.com/watch?v=nZHU6hTAI0o)
-- [1.20 Minecraft Forge Modding Tutorial - Recipes](https://www.youtube.com/watch?v=wMSxrstYKBI)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
