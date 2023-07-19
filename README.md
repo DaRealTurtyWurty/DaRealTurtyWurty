@@ -1,4 +1,4 @@
-![Discord](https://img.shields.io/discord/1017111640023506974?color=7289DA&label=My%20Discord%20Server&logo=Discord&style=plastic)
+[![](https://dcbadge.vercel.app/api/server/BAYB3A38wn)](https://discord.gg/BAYB3A38wn)
 ![Twitter Follow](https://img.shields.io/twitter/follow/RealTurtyWurty?color=1DA1F2&label=Follow%20me%20on%20Twitter&logo=Twitter&logoColor=1DA1F2&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/DaRealTurtyWurty?style=social)
 
