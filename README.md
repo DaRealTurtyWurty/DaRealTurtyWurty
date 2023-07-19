@@ -34,11 +34,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Mod Development Stream](https://www.youtube.com/watch?v=5LpBqVWtjmQ)
 - [Mod Development Stream](https://www.youtube.com/watch?v=M8O-ujNe1cg)
 - [Mod Development Stream](https://www.youtube.com/watch?v=SFz-4bGX2Pw)
 - [1.20 Minecraft Forge Modding Tutorial - Ticking Block Entities](https://www.youtube.com/watch?v=qguxWE5gDCs)
 - [1.20 Minecraft Forge Modding Tutorial - Block Entities and Block States](https://www.youtube.com/watch?v=b1tLNB4RHgQ)
-- [1.20 Minecraft Forge Modding Tutorial - Keyframe Entity Animations](https://www.youtube.com/watch?v=9k7-yBEaF3Q)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
