@@ -1,4 +1,4 @@
-[![](https://dcbadge.vercel.app/api/server/BAYB3A38wn)]([discord])
+[![](https://dcbadge.vercel.app/api/server/BAYB3A38wn)](discord.gg/BAYB3A38wn)
 ![GitHub followers](https://img.shields.io/github/followers/DaRealTurtyWurty?style=social)
 
 ### Hi there, I'm TurtyWurty 👋
