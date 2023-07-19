@@ -1,5 +1,4 @@
-[![](https://dcbadge.vercel.app/api/server/BAYB3A38wn)](https://discord.gg/BAYB3A38wn)
-![Twitter Follow](https://img.shields.io/twitter/follow/RealTurtyWurty?color=1DA1F2&label=Follow%20me%20on%20Twitter&logo=Twitter&logoColor=1DA1F2&style=social)
+[![](https://dcbadge.vercel.app/api/server/BAYB3A38wn)]([discord])
 ![GitHub followers](https://img.shields.io/github/followers/DaRealTurtyWurty?style=social)
 
 ### Hi there, I'm TurtyWurty 👋
