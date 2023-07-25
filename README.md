@@ -43,8 +43,8 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/jordsta95/InfiniOres/pull/1) in [jordsta95/InfiniOres](https://github.com/jordsta95/InfiniOres)
-2. 💪 Opened PR [#126](https://github.com/DaRealTurtyWurty/SuperTurtyBot/pull/126) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
+1. 💪 Opened PR [#2](https://github.com/jordsta95/InfiniOres/pull/2) in [jordsta95/InfiniOres](https://github.com/jordsta95/InfiniOres)
+2. 💪 Opened PR [#1](https://github.com/jordsta95/InfiniOres/pull/1) in [jordsta95/InfiniOres](https://github.com/jordsta95/InfiniOres)
 <!--END_SECTION:activity-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealTurtyWurty&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
