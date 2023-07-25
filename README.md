@@ -43,7 +43,7 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#126](https://github.com/DaRealTurtyWurty/SuperTurtyBot/pull/126) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
+1. 💪 Opened PR [#1](https://github.com/jordsta95/InfiniOres/pull/1) in [jordsta95/InfiniOres](https://github.com/jordsta95/InfiniOres)
 2. 💪 Opened PR [#126](https://github.com/DaRealTurtyWurty/SuperTurtyBot/pull/126) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
 <!--END_SECTION:activity-->
 
