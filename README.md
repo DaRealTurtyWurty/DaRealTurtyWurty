@@ -34,11 +34,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [1.20 Minecraft Forge Modding Tutorial - Block Entity Menus](https://www.youtube.com/watch?v=340HcHexH60)
 - [1.20 Minecraft Forge Modding Tutorial - Parchment Mappings](https://www.youtube.com/watch?v=caZjCR1EEAY)
 - [1.20 Minecraft Forge Modding Tutorial - Updating to 1.20.2](https://www.youtube.com/watch?v=C9GkG_FDEY0)
 - [1.20 Minecraft Forge Modding Tutorial - Block Screens](https://www.youtube.com/watch?v=O2DdUAP-7yk)
 - [Mod Development Stream - Clock Mod](https://www.youtube.com/watch?v=7_zx0GmXXto)
-- [Mod Development Stream](https://www.youtube.com/watch?v=vn0GC0MQ7Ik)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
