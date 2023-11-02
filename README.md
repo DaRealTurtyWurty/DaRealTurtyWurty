@@ -34,11 +34,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [1.20 Minecraft Forge Modding Tutorial - Packets](https://www.youtube.com/watch?v=KrzsRqxaTug)
 - [1.20 Minecraft Forge Modding Tutorial - Keybindings](https://www.youtube.com/watch?v=F5HmNL9fE1E)
 - [1.20 Minecraft Forge Modding Tutorial - Sided Capabilities](https://www.youtube.com/watch?v=7SFnRFFtG_I)
 - [1.20 Minecraft Forge Modding Tutorial - Energy Block Entity](https://www.youtube.com/watch?v=H3h-fKIyn2I)
 - [1.20 Minecraft Forge Modding Tutorial - Block Entity Menus](https://www.youtube.com/watch?v=340HcHexH60)
-- [1.20 Minecraft Forge Modding Tutorial - Parchment Mappings](https://www.youtube.com/watch?v=caZjCR1EEAY)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
