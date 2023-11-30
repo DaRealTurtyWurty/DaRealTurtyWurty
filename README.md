@@ -43,8 +43,8 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/DaRealTurtyWurty/MobBrawlers/pull/1) in [DaRealTurtyWurty/MobBrawlers](https://github.com/DaRealTurtyWurty/MobBrawlers)
-2. 🎉 Merged PR [#184](https://github.com/DaRealTurtyWurty/SuperTurtyBot/pull/184) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
+1. 💪 Opened PR [#1](https://github.com/hoobooh/JuiceCraft/pull/1) in [hoobooh/JuiceCraft](https://github.com/hoobooh/JuiceCraft)
+2. 🎉 Merged PR [#1](https://github.com/DaRealTurtyWurty/MobBrawlers/pull/1) in [DaRealTurtyWurty/MobBrawlers](https://github.com/DaRealTurtyWurty/MobBrawlers)
 <!--END_SECTION:activity-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealTurtyWurty&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
