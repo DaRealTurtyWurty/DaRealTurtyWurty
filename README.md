@@ -34,11 +34,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Forge Developer learns to use FABRIC?? 😱😱😱😱](https://www.youtube.com/watch?v=P_8PJ0nXZtQ)
 - [1.20 Minecraft Forge Modding Tutorial - Fluid Block Entity](https://www.youtube.com/watch?v=0owKtbM115E)
 - [1.20 Minecraft Forge Modding Tutorial - Packets](https://www.youtube.com/watch?v=KrzsRqxaTug)
 - [1.20 Minecraft Forge Modding Tutorial - Keybindings](https://www.youtube.com/watch?v=F5HmNL9fE1E)
 - [1.20 Minecraft Forge Modding Tutorial - Sided Capabilities](https://www.youtube.com/watch?v=7SFnRFFtG_I)
-- [1.20 Minecraft Forge Modding Tutorial - Energy Block Entity](https://www.youtube.com/watch?v=H3h-fKIyn2I)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
