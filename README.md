@@ -34,11 +34,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Minecraft Mod Development Stream](https://www.youtube.com/watch?v=JQq2GpG17zs)
 - [1.20 Minecraft Forge Modding Tutorial - Block Entity Fluid Rendering](https://www.youtube.com/watch?v=pUAvPm8fm80)
 - [1.20 Minecraft Forge Modding Tutorial - Block Entity Renderer](https://www.youtube.com/watch?v=CsGqgFZR3RY)
 - [Forge Developer learns to use FABRIC?? 😱😱😱😱](https://www.youtube.com/watch?v=P_8PJ0nXZtQ)
 - [1.20 Minecraft Forge Modding Tutorial - Fluid Block Entity](https://www.youtube.com/watch?v=0owKtbM115E)
+- [1.20 Minecraft Forge Modding Tutorial - Packets](https://www.youtube.com/watch?v=KrzsRqxaTug)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
