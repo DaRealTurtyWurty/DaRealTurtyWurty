@@ -43,8 +43,8 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/DaRealTurtyWurty/Creamed-Blocks/pull/1) in [DaRealTurtyWurty/Creamed-Blocks](https://github.com/DaRealTurtyWurty/Creamed-Blocks)
-2. 🎉 Merged PR [#222](https://github.com/DaRealTurtyWurty/SuperTurtyBot/pull/222) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
+1. 💪 Opened PR [#1](https://github.com/Ender-09/block_coding/pull/1) in [Ender-09/block_coding](https://github.com/Ender-09/block_coding)
+2. 🎉 Merged PR [#1](https://github.com/DaRealTurtyWurty/Creamed-Blocks/pull/1) in [DaRealTurtyWurty/Creamed-Blocks](https://github.com/DaRealTurtyWurty/Creamed-Blocks)
 <!--END_SECTION:activity-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealTurtyWurty&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
