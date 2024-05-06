@@ -43,8 +43,8 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#250](https://github.com/DaRealTurtyWurty/SuperTurtyBot/pull/250) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
-2. 🎉 Merged PR [#249](https://github.com/DaRealTurtyWurty/SuperTurtyBot/pull/249) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
+1. 🎉 Merged PR [#1](https://github.com/DaRealTurtyWurty/FabricTechModTesting/pull/1) in [DaRealTurtyWurty/FabricTechModTesting](https://github.com/DaRealTurtyWurty/FabricTechModTesting)
+2. 💪 Opened PR [#1](https://github.com/DaRealTurtyWurty/FabricTechModTesting/pull/1) in [DaRealTurtyWurty/FabricTechModTesting](https://github.com/DaRealTurtyWurty/FabricTechModTesting)
 <!--END_SECTION:activity-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealTurtyWurty&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
