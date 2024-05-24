@@ -34,11 +34,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Creating a Minecraft Tech Mod &lpar;in FABRIC?&rpar;](https://www.youtube.com/watch?v=MsVb7z3f36w)
-- [Creating a Minecraft Tech Mod &lpar;in FABRIC?&rpar;](https://www.youtube.com/watch?v=FjhKt2HfUf0)
 - [Channel Update &lpar;Modding, Brass, Railroad, TurtyBot&rpar;](https://www.youtube.com/watch?v=-gWMuNsKIWI)
 - [1.20 Minecraft Forge Modding Tutorial - Block Entity Fluid Rendering](https://www.youtube.com/watch?v=pUAvPm8fm80)
 - [1.20 Minecraft Forge Modding Tutorial - Block Entity Renderer](https://www.youtube.com/watch?v=CsGqgFZR3RY)
+- [Forge Developer learns to use FABRIC?? 😱😱😱😱](https://www.youtube.com/watch?v=P_8PJ0nXZtQ)
+- [1.20 Minecraft Forge Modding Tutorial - Fluid Block Entity](https://www.youtube.com/watch?v=0owKtbM115E)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
