@@ -43,7 +43,7 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/Railroad-Team/Railroad/pull/18) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
+1. 🎉 Merged PR [#251](https://github.com/DaRealTurtyWurty/SuperTurtyBot/pull/251) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
 2. 🗣 Commented on [#251](https://github.com/DaRealTurtyWurty/SuperTurtyBot/issues/251) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
 <!--END_SECTION:activity-->
 
