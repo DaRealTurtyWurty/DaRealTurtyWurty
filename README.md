@@ -43,8 +43,8 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/Railroad-Team/Railroad/issues/24) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
-2. 🎉 Merged PR [#22](https://github.com/Railroad-Team/Railroad/pull/22) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
+1. 🎉 Merged PR [#1](https://github.com/DaRealTurtyWurty/1.21-Test-Mod/pull/1) in [DaRealTurtyWurty/1.21-Test-Mod](https://github.com/DaRealTurtyWurty/1.21-Test-Mod)
+2. 💪 Opened PR [#1](https://github.com/DaRealTurtyWurty/1.21-Test-Mod/pull/1) in [DaRealTurtyWurty/1.21-Test-Mod](https://github.com/DaRealTurtyWurty/1.21-Test-Mod)
 <!--END_SECTION:activity-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealTurtyWurty&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
