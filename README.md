@@ -34,11 +34,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Fabric 1.21 Modding Tutorial - Items and Food](https://www.youtube.com/watch?v=D-7xGsjtnzI)
 - [Fabric 1.21 Modding Tutorial - Setup](https://www.youtube.com/watch?v=LyVa3pon4OM)
 - [Channel Update &lpar;Modding, Brass, Railroad, TurtyBot&rpar;](https://www.youtube.com/watch?v=-gWMuNsKIWI)
 - [1.20 Minecraft Forge Modding Tutorial - Block Entity Fluid Rendering](https://www.youtube.com/watch?v=pUAvPm8fm80)
 - [1.20 Minecraft Forge Modding Tutorial - Block Entity Renderer](https://www.youtube.com/watch?v=CsGqgFZR3RY)
-- [Forge Developer learns to use FABRIC?? 😱😱😱😱](https://www.youtube.com/watch?v=P_8PJ0nXZtQ)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
