@@ -34,11 +34,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Fabric 1.21 Modding Tutorial - Recipes](https://www.youtube.com/watch?v=w2iFwsFCRik)
 - [Fabric 1.21 Modding Tutorial - Ore Generation](https://www.youtube.com/watch?v=mbkVw498REk)
 - [Fabric 1.21 Modding Tutorial - Data Generation](https://www.youtube.com/watch?v=fafTGIVvHHQ)
 - [Fabric 1.21 Modding Tutorial - Creative Tabs](https://www.youtube.com/watch?v=W7JFbcQzCA4)
 - [Fabric 1.21 Modding Tutorial - Blocks](https://www.youtube.com/watch?v=Oq9QYH9eVZQ)
-- [Fabric 1.21 Modding Tutorial - Items and Food](https://www.youtube.com/watch?v=D-7xGsjtnzI)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
