@@ -34,11 +34,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Fabric 1.21 Modding Tutorial - Tools](https://www.youtube.com/watch?v=qqy18ul-JEk)
 - [Creating a Minecraft Tech/Storage Mod - Fabric 1.21](https://www.youtube.com/watch?v=_TPnrong0nc)
 - [Creating a Minecraft Tech/Storage Mod - Fabric 1.21](https://www.youtube.com/watch?v=JUI_-JPX3w4)
 - [Creating a Minecraft Tech/Storage Mod - Fabric 1.21](https://www.youtube.com/watch?v=QUJGzkujPAk)
 - [Fabric 1.21 Modding Tutorial - Flowers](https://www.youtube.com/watch?v=6ILWM1-WtgA)
-- [Fabric 1.21 Modding Tutorial - Armor](https://www.youtube.com/watch?v=uNjDaHInY-w)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
