@@ -1,4 +1,4 @@
-[![](https://dcbadge.vercel.app/api/server/BAYB3A38wn)](https://discord.gg/BAYB3A38wn)
+[![](https://dcbadge.vercel.app/api/server/BAYB3A38wn)](https://discord.turtywurty.dev)
 
 ### Hi there, I'm TurtyWurty 👋
 
@@ -52,7 +52,7 @@
 [![DaRealTurtyWurty's wakatime stats](https://github-readme-stats.vercel.app/api?username=DaRealTurtyWurty)](https://github.com/anuraghazra/github-readme-stats)
 
 [youtube]: https://youtube.com/TurtyWurty
-[discord]: https://discord.gg/BAYB3A38wn
+[discord]: https://discord.turtywurty.dev/
 [vscode]: https://code.visualstudio.com
 [java]: https://www.java.com
 [csharp]: https://docs.microsoft.com/en-us/dotnet/csharp
