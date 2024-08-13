@@ -34,11 +34,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Fabric 1.21 Modding Tutorial - Enchantments](https://www.youtube.com/watch?v=vN_pVCm72Nw)
 - [Fabric 1.21 Modding Tutorial - Wood Set](https://www.youtube.com/watch?v=b2-yEgLb5uA)
 - [Creating a Minecraft Tech Mod - Fabric 1.21](https://www.youtube.com/watch?v=xijfz08g_iU)
 - [Fabric 1.21 Modding Tutorial - Flowers](https://www.youtube.com/watch?v=iZjG030TqEU)
 - [Fabric 1.21 Modding Tutorial - Armor](https://www.youtube.com/watch?v=bRqqVVKROGA)
-- [Fabric 1.21 Modding Tutorial - Tools](https://www.youtube.com/watch?v=qqy18ul-JEk)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
