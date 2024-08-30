@@ -34,11 +34,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Creating a Minecraft Tech Mod - Fabric 1.21](https://www.youtube.com/watch?v=4WpthBior74)
 - [Fabric 1.21 Modding Tutorial - Ticking Block Entities](https://www.youtube.com/watch?v=hzz9PKysdi0)
 - [Creating a Minecraft Tech Mod - Fabric 1.21](https://www.youtube.com/watch?v=ueuFlA6nWUc)
 - [Fabric 1.21 Modding Tutorial - Block Entities](https://www.youtube.com/watch?v=1SHiPygYPD0)
 - [Fabric 1.21 Modding Tutorial - Trees](https://www.youtube.com/watch?v=2nH_8w9oVLA)
-- [Fabric 1.21 Modding Tutorial - Enchantments](https://www.youtube.com/watch?v=vN_pVCm72Nw)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
