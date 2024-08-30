@@ -34,8 +34,8 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Fabric 1.21 Modding Tutorial - Energy Block Entities](https://www.youtube.com/watch?v=N3Abbn9rV6M)
 - [Creating a Minecraft Tech Mod - Fabric 1.21](https://www.youtube.com/watch?v=4WpthBior74)
+- [Fabric 1.21 Modding Tutorial - Energy Block Entities](https://www.youtube.com/watch?v=N3Abbn9rV6M)
 - [Fabric 1.21 Modding Tutorial - Ticking Block Entities](https://www.youtube.com/watch?v=hzz9PKysdi0)
 - [Creating a Minecraft Tech Mod - Fabric 1.21](https://www.youtube.com/watch?v=ueuFlA6nWUc)
 - [Fabric 1.21 Modding Tutorial - Block Entities](https://www.youtube.com/watch?v=1SHiPygYPD0)
