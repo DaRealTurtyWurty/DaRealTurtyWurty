@@ -34,11 +34,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Fabric 1.21 Modding Tutorial - Block Entity Fluid Tanks](https://www.youtube.com/watch?v=RCMkl3mJ55w)
 - [Fabric 1.21 Modding Tutorial - Block Entity Item Rendering](https://www.youtube.com/watch?v=pZ48KmRpqf4)
 - [Fabric 1.21 Modding Tutorial - Block Entity Renderer](https://www.youtube.com/watch?v=8I4moC7F4rM)
 - [Fabric 1.21 Modding Tutorial - Block Entity Inventory](https://www.youtube.com/watch?v=vAocMCfX0hc)
 - [Fabric 1.21 Modding Tutorial - Block Entity Screens](https://www.youtube.com/watch?v=QkgYgyjpw-M)
-- [Creating a Minecraft Tech Mod - Fabric 1.21](https://www.youtube.com/watch?v=4WpthBior74)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
