@@ -34,11 +34,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Creating a Minecraft Tech Mod - Fabric 1.21](https://www.youtube.com/watch?v=A73DW651TqY)
 - [Creating a Minecraft Tech Mod - Fabric 1.21](https://www.youtube.com/watch?v=xQcZTPtZa4A)
 - [Creating a Minecraft Tech Mod - Fabric 1.21](https://www.youtube.com/watch?v=hESfEOKAUyc)
 - [Creating a Minecraft Tech Mod - Fabric 1.21](https://www.youtube.com/watch?v=ucFBwfJIU28)
 - [Fabric 1.21 Modding Tutorial - Block Entity Renderer Fluid Rendering](https://www.youtube.com/watch?v=mCjPeV_UKBw)
-- [Fabric 1.21 Modding Tutorial - Block Entity Fluid Tanks](https://www.youtube.com/watch?v=RCMkl3mJ55w)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
