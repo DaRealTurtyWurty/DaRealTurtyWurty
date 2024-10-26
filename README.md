@@ -43,8 +43,8 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#263](https://github.com/DaRealTurtyWurty/SuperTurtyBot/issues/263) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
-2. ❗️ Closed issue [#263](https://github.com/DaRealTurtyWurty/SuperTurtyBot/issues/263) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
+1. 🎉 Merged PR [#3](https://github.com/DaRealTurtyWurty/Industria/pull/3) in [DaRealTurtyWurty/Industria](https://github.com/DaRealTurtyWurty/Industria)
+2. 💪 Opened PR [#3](https://github.com/DaRealTurtyWurty/Industria/pull/3) in [DaRealTurtyWurty/Industria](https://github.com/DaRealTurtyWurty/Industria)
 <!--END_SECTION:activity-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealTurtyWurty&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
