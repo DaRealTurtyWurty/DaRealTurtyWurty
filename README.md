@@ -34,9 +34,9 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Creating a Minecraft Tech Mod - Fabric 1.21.3](https://www.youtube.com/watch?v=HK8aCe4xrlI)
 - [Creating a Minecraft Tech Mod - Fabric 1.21](https://www.youtube.com/watch?v=-j2NH55bCWQ)
 - [Creating a Minecraft Tech Mod - Fabric 1.21](https://www.youtube.com/watch?v=VDEHQsRnMAY)
-- [Creating a Minecraft Tech Mod - Fabric 1.21.3](https://www.youtube.com/watch?v=HK8aCe4xrlI)
 - [Creating a Minecraft Tech Mod - Fabric 1.21](https://www.youtube.com/watch?v=N19KJc4pIH4)
 - [Creating a Minecraft Tech Mod - Fabric 1.21](https://www.youtube.com/watch?v=A73DW651TqY)
 <!-- YOUTUBE:END -->
