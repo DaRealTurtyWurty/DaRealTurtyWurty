@@ -43,8 +43,8 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/DaRealTurtyWurty/Industria/pull/4) in [DaRealTurtyWurty/Industria](https://github.com/DaRealTurtyWurty/Industria)
-2. 🎉 Merged PR [#5](https://github.com/DaRealTurtyWurty/Industria/pull/5) in [DaRealTurtyWurty/Industria](https://github.com/DaRealTurtyWurty/Industria)
+1. 🎉 Merged PR [#267](https://github.com/DaRealTurtyWurty/SuperTurtyBot/pull/267) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
+2. 🎉 Merged PR [#4](https://github.com/DaRealTurtyWurty/Industria/pull/4) in [DaRealTurtyWurty/Industria](https://github.com/DaRealTurtyWurty/Industria)
 <!--END_SECTION:activity-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealTurtyWurty&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
