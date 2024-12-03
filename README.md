@@ -43,8 +43,8 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/DaRealTurtyWurty/PepoLang/pull/1) in [DaRealTurtyWurty/PepoLang](https://github.com/DaRealTurtyWurty/PepoLang)
-2. 💪 Opened PR [#1](https://github.com/DaRealTurtyWurty/PepoLang/pull/1) in [DaRealTurtyWurty/PepoLang](https://github.com/DaRealTurtyWurty/PepoLang)
+1. 🎉 Merged PR [#272](https://github.com/DaRealTurtyWurty/SuperTurtyBot/pull/272) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
+2. 🎉 Merged PR [#1](https://github.com/DaRealTurtyWurty/PepoLang/pull/1) in [DaRealTurtyWurty/PepoLang](https://github.com/DaRealTurtyWurty/PepoLang)
 <!--END_SECTION:activity-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealTurtyWurty&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
