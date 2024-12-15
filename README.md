@@ -43,8 +43,8 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Railroad-Team/Locomotive/pull/1) in [Railroad-Team/Locomotive](https://github.com/Railroad-Team/Locomotive)
-2. 💪 Opened PR [#1](https://github.com/Railroad-Team/Locomotive/pull/1) in [Railroad-Team/Locomotive](https://github.com/Railroad-Team/Locomotive)
+1. 🎉 Merged PR [#2](https://github.com/Railroad-Team/Locomotive/pull/2) in [Railroad-Team/Locomotive](https://github.com/Railroad-Team/Locomotive)
+2. 💪 Opened PR [#2](https://github.com/Railroad-Team/Locomotive/pull/2) in [Railroad-Team/Locomotive](https://github.com/Railroad-Team/Locomotive)
 <!--END_SECTION:activity-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealTurtyWurty&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
