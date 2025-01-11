@@ -43,8 +43,8 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#280](https://github.com/DaRealTurtyWurty/SuperTurtyBot/pull/280) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
-2. 🗣 Commented on [#280](https://github.com/DaRealTurtyWurty/SuperTurtyBot/issues/280) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
+1. 🗣 Commented on [#1058](https://github.com/surfbryce/beautiful-lyrics/issues/1058) in [surfbryce/beautiful-lyrics](https://github.com/surfbryce/beautiful-lyrics)
+2. 🎉 Merged PR [#280](https://github.com/DaRealTurtyWurty/SuperTurtyBot/pull/280) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
 <!--END_SECTION:activity-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealTurtyWurty&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
