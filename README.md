@@ -34,11 +34,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Creating a Minecraft Tech Mod &lpar;Industria&rpar; - Fabric 1.21.3](https://www.youtube.com/watch?v=jCp79KsjMWg)
 - [Creating a Minecraft Tech Mod - Fabric 1.21.3](https://www.youtube.com/watch?v=U5uckC0sqGI)
 - [Creating a Minecraft Tech Mod - Fabric 1.21.3](https://www.youtube.com/watch?v=fp7EiqlJeZ8)
 - [Creating a Minecraft Tech Mod - Fabric 1.21.3](https://www.youtube.com/watch?v=GDQVb9QLaKw)
 - [Creating a Minecraft Tech Mod - Fabric 1.21.3](https://www.youtube.com/watch?v=HK8aCe4xrlI)
-- [Creating a Minecraft Tech Mod - Fabric 1.21](https://www.youtube.com/watch?v=-j2NH55bCWQ)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
