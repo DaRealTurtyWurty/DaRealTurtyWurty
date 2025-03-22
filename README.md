@@ -34,7 +34,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Creating a Minecraft Tech Mod &lpar;Industria&rpar; - Fabric 1.21.3](https://www.youtube.com/watch?v=91E6OYbdWLY)
+- [Creating a Minecraft Tech Mod &lpar;Industria&rpar; - Fabric 1.21.3 | Working on Crystallizer](https://www.youtube.com/watch?v=91E6OYbdWLY)
 - [Creating a Minecraft Tech Mod &lpar;Industria&rpar; - Fabric 1.21.3](https://www.youtube.com/watch?v=CG8pRQRZgmw)
 - [Creating a Minecraft Tech Mod &lpar;Industria&rpar; - Fabric 1.21.3](https://www.youtube.com/watch?v=9OYcU92awfM)
 - [Creating a Minecraft Tech Mod &lpar;Industria&rpar; - Fabric 1.21.3](https://www.youtube.com/watch?v=W3xWR_paHxE)
