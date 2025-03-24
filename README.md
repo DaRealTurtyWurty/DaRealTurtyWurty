@@ -34,11 +34,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Developing Industria Tech Mod - Fabric 1.21.3 | Crystallizer and Kiln](https://www.youtube.com/watch?v=nGhFMnubfLc)
 - [Creating a Minecraft Tech Mod &lpar;Industria&rpar; - Fabric 1.21.3 | Working on Crystallizer](https://www.youtube.com/watch?v=91E6OYbdWLY)
 - [Creating a Minecraft Tech Mod &lpar;Industria&rpar; - Fabric 1.21.3](https://www.youtube.com/watch?v=CG8pRQRZgmw)
 - [Creating a Minecraft Tech Mod &lpar;Industria&rpar; - Fabric 1.21.3](https://www.youtube.com/watch?v=9OYcU92awfM)
 - [Creating a Minecraft Tech Mod &lpar;Industria&rpar; - Fabric 1.21.3](https://www.youtube.com/watch?v=W3xWR_paHxE)
-- [Creating a Minecraft Tech Mod &lpar;Industria&rpar; - Fabric 1.21.3](https://www.youtube.com/watch?v=Rc1m_c0I85k)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
