@@ -34,7 +34,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Developing Industria Tech Mod - Fabric 1.21.5](https://www.youtube.com/watch?v=BA3uJTDjjUU)
+- [Developing Industria Tech Mod - Fabric 1.21.5](https://www.youtube.com/watch?v=pRmfcOwD9Do)
 - [Developing Industria Tech Mod - Fabric 1.21.3 | Updating to 1.21.5](https://www.youtube.com/watch?v=GR_sY-3oP2E)
 - [Developing Industria Tech Mod - Fabric 1.21.3 | Updating to 1.21.5](https://www.youtube.com/watch?v=epS-4IKRAP4)
 - [Developing Industria Tech Mod - Fabric 1.21.3 | Fluid Tanks](https://www.youtube.com/watch?v=UdT3vLgQzpg)
