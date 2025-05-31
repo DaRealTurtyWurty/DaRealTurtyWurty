@@ -5,8 +5,7 @@
 ## I'm a programmer and a games developer!
 
 - 🎓 I do Minecraft Modding Tutorials on [my YouTube Channel][youtube]
-- 🏫 I'm currently starting my University course in Software Engineering
-- 🎮 I am working on my own mod loader for minecraft.
+- 🎮 I am working on making an IDE dedicated to Minecraft Modding.
 - ⚡ Fun fact: My favourite colour is orange.
 
 ### Connect with me:
