@@ -42,8 +42,8 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Railroad-Team/RailroadLogger/pull/1) in [Railroad-Team/RailroadLogger](https://github.com/Railroad-Team/RailroadLogger)
-2. 🎉 Merged PR [#42](https://github.com/Railroad-Team/Railroad/pull/42) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
+1. 🎉 Merged PR [#1](https://github.com/Railroad-Team/RailroadDocs/pull/1) in [Railroad-Team/RailroadDocs](https://github.com/Railroad-Team/RailroadDocs)
+2. 🎉 Merged PR [#1](https://github.com/Railroad-Team/RailroadLogger/pull/1) in [Railroad-Team/RailroadLogger](https://github.com/Railroad-Team/RailroadLogger)
 <!--END_SECTION:activity-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealTurtyWurty&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
