@@ -33,11 +33,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Developing Industria Tech Mod - Fabric 1.21.5](https://www.youtube.com/watch?v=lCmxjR_Bdno)
 - [Developing Industria Tech Mod - Fabric 1.21.5 - Shaking Table](https://www.youtube.com/watch?v=6p_10CrGVlQ)
 - [Developing Industria Tech Mod - Fabric 1.21.5 - Shaking Table](https://www.youtube.com/watch?v=T8bvrjDf5Go)
 - [Creating a Minecraft Tech Mod Fabric 1.21](https://www.youtube.com/watch?v=FM2yRqv7ZX0)
 - [Creating a Minecraft Tech Mod Fabric 1.21](https://www.youtube.com/watch?v=JUI_-JPX3w4)
-- [Channel Update - July 2025](https://www.youtube.com/watch?v=sC_4Amnmrr4)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
