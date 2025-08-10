@@ -33,11 +33,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Fabric 1.21.1 Modding Tutorial - GUI Fluid Rendering](https://www.youtube.com/watch?v=hxQwwe0hW0U)
 - [Developing Industria Tech Mod - Fabric 1.21.5 - Centrifugal Concentrator](https://www.youtube.com/watch?v=oQAgev_Fcc0)
 - [Developing Industria Tech Mod - Fabric 1.21.5 - Centrifugal Concentrator](https://www.youtube.com/watch?v=lCmxjR_Bdno)
 - [Developing Industria Tech Mod - Fabric 1.21.5 - Shaking Table](https://www.youtube.com/watch?v=6p_10CrGVlQ)
 - [Developing Industria Tech Mod - Fabric 1.21.5 - Shaking Table](https://www.youtube.com/watch?v=T8bvrjDf5Go)
-- [Creating a Minecraft Tech Mod Fabric 1.21](https://www.youtube.com/watch?v=FM2yRqv7ZX0)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
