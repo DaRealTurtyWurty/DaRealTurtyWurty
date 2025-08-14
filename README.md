@@ -42,8 +42,8 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/DaRealTurtyWurty/FabricHeatAPI/pull/1) in [DaRealTurtyWurty/FabricHeatAPI](https://github.com/DaRealTurtyWurty/FabricHeatAPI)
-2. 🎉 Merged PR [#1](https://github.com/DaRealTurtyWurty/FabricSlurryApi/pull/1) in [DaRealTurtyWurty/FabricSlurryApi](https://github.com/DaRealTurtyWurty/FabricSlurryApi)
+1. 🎉 Merged PR [#1](https://github.com/DaRealTurtyWurty/FabricGasApi/pull/1) in [DaRealTurtyWurty/FabricGasApi](https://github.com/DaRealTurtyWurty/FabricGasApi)
+2. 🎉 Merged PR [#1](https://github.com/DaRealTurtyWurty/FabricHeatAPI/pull/1) in [DaRealTurtyWurty/FabricHeatAPI](https://github.com/DaRealTurtyWurty/FabricHeatAPI)
 <!--END_SECTION:activity-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealTurtyWurty&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
