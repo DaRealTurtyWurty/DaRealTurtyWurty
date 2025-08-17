@@ -33,11 +33,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Developing a Minecraft Modding IDE - Railroad - Writing a Java Lexer/Parser](https://www.youtube.com/watch?v=-wHRfeyRkv0)
 - [Developing Industria Tech Mod - Fabric 1.21.5 - Arc Furnace](https://www.youtube.com/watch?v=-6dzv7PgwFw)
 - [Developing a Minecraft Modding IDE - Railroad - Writing a Java Lexer](https://www.youtube.com/watch?v=PwhZj4QPfZY)
 - [Developing Industria Tech Mod - Fabric 1.21.5 - Animating machines](https://www.youtube.com/watch?v=6ctiASrNPTI)
 - [Fabric 1.21.1 Modding Tutorial - GUI Fluid Rendering](https://www.youtube.com/watch?v=hxQwwe0hW0U)
-- [Developing Industria Tech Mod - Fabric 1.21.5 - Centrifugal Concentrator](https://www.youtube.com/watch?v=oQAgev_Fcc0)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
