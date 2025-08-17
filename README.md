@@ -42,8 +42,8 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/DaRealTurtyWurty/Industria/pull/18) in [DaRealTurtyWurty/Industria](https://github.com/DaRealTurtyWurty/Industria)
-2. 🎉 Merged PR [#2](https://github.com/DaRealTurtyWurty/FabricHeatAPI/pull/2) in [DaRealTurtyWurty/FabricHeatAPI](https://github.com/DaRealTurtyWurty/FabricHeatAPI)
+1. 🎉 Merged PR [#20](https://github.com/DaRealTurtyWurty/Industria/pull/20) in [DaRealTurtyWurty/Industria](https://github.com/DaRealTurtyWurty/Industria)
+2. 🎉 Merged PR [#19](https://github.com/DaRealTurtyWurty/Industria/pull/19) in [DaRealTurtyWurty/Industria](https://github.com/DaRealTurtyWurty/Industria)
 <!--END_SECTION:activity-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealTurtyWurty&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
