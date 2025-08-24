@@ -33,10 +33,10 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Developing a Minecraft Modding IDE - Railroad - Writing a Java Parser](https://www.youtube.com/watch?v=g5XsfqD1Uuc)
 - [Fabric 1.21.1 Modding Tutorial - Custom Recipe Types](https://www.youtube.com/watch?v=WEFVH_oH4uM)
 - [Developing Industria Tech Mod - Fabric 1.21.8 - Improved Multiblocks](https://www.youtube.com/watch?v=Nf-feoPtllA)
 - [Think of AI like a screwdriver #ai #programming #anecdote](https://www.youtube.com/shorts/0-cjqbsOeOA)
-- [Developing a Minecraft Modding IDE - Railroad - Writing a Java Parser](https://www.youtube.com/watch?v=g5XsfqD1Uuc)
 - [Developing a Minecraft Modding IDE - Railroad - Writing a Java Parser](https://www.youtube.com/watch?v=FzwtcQ4UdTs)
 <!-- YOUTUBE:END -->
 
