@@ -33,11 +33,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Developing a Minecraft Modding IDE - Railroad - Project Creation](https://www.youtube.com/watch?v=BpKuCUfGa38)
 - [Developing a Minecraft Modding IDE - Railroad - Project Creation](https://www.youtube.com/watch?v=94ohxjrt_H4)
 - [Developing a Minecraft Modding IDE - Railroad - Writing a Java Parser](https://www.youtube.com/watch?v=LsUU-S_wRAg)
 - [Developing a Minecraft Modding IDE - Railroad - Writing a Java Parser](https://www.youtube.com/watch?v=8G7yCsheRw8)
 - [Developing a Minecraft Modding IDE - Railroad - Writing a Java Parser](https://www.youtube.com/watch?v=_7-KX59hDLk)
-- [Fabric 1.21.1 Modding Tutorial - Block Entity Renderer](https://www.youtube.com/watch?v=Q9rcLhx3ToM)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
