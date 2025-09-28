@@ -33,7 +33,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Developing a Minecraft Modding IDE - Railroad - Refactoring](https://www.youtube.com/watch?v=DQg7lLZzTyc)
+- [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Refactoring](https://www.youtube.com/watch?v=DQg7lLZzTyc)
 - [Developing a Minecraft Modding IDE - Railroad - Refactoring](https://www.youtube.com/watch?v=VOm4XVH-WD0)
 - [Developing a Minecraft Modding IDE - Railroad - Project Creation](https://www.youtube.com/watch?v=b_JMbR8hquk)
 - [Developing a Minecraft Modding IDE - Railroad - Project Creation](https://www.youtube.com/watch?v=BpKuCUfGa38)
