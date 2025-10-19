@@ -34,10 +34,10 @@
 
 <!-- YOUTUBE:START -->
 - [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Preparing for first Public Test](https://www.youtube.com/watch?v=a_0PQ4G9HNQ)
+- [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Preparing for first Public Test](https://www.youtube.com/watch?v=uOSMfiCEUhA)
 - [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Onboarding System](https://www.youtube.com/watch?v=HTXCRFx9FTg)
 - [Developing Industria &lpar;Tech Mod&rpar; - Fabric 1.21.8 - The Lumen Depths](https://www.youtube.com/watch?v=C5C5dmWZoKI)
 - [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Writing a Java Parser](https://www.youtube.com/watch?v=vFWlSmtiTpo)
-- [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Writing a Java Parser](https://www.youtube.com/watch?v=TrrBs0RtuWY)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
