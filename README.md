@@ -42,8 +42,8 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#79](https://github.com/Railroad-Team/Railroad/issues/79) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
-2. 🗣 Commented on [#82](https://github.com/Railroad-Team/Railroad/issues/82) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
+1. 🗣 Commented on [#84](https://github.com/Railroad-Team/Railroad/issues/84) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
+2. 🗣 Commented on [#84](https://github.com/Railroad-Team/Railroad/issues/84) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
 <!--END_SECTION:activity-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealTurtyWurty&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
