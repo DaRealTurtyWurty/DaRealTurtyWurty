@@ -2,7 +2,7 @@
 
 ### Hi there, I'm TurtyWurty 👋
 
-## I'm a programmer and a games developer!
+## I'm a programmer and a software developer!
 
 - 🎓 I do Minecraft Modding Tutorials on [my YouTube Channel][youtube]
 - 🎮 I am working on making an IDE dedicated to Minecraft Modding.
