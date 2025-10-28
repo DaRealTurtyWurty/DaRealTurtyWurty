@@ -42,8 +42,8 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#78](https://github.com/Railroad-Team/Railroad/issues/78) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
-2. ❗️ Labeled issue [#87](https://github.com/Railroad-Team/Railroad/issues/87) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
+1. ❗️ Closed issue [#79](https://github.com/Railroad-Team/Railroad/issues/79) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
+2. ❌ Unassigned PR [#56](https://github.com/Railroad-Team/Railroad/pull/56) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
 <!--END_SECTION:activity-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealTurtyWurty&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
