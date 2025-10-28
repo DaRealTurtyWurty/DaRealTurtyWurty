@@ -42,7 +42,7 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. ❗️ Labeled issue [#95](https://github.com/Railroad-Team/Railroad/issues/95) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
+1. ❌ Labeled PR [#96](https://github.com/Railroad-Team/Railroad/pull/96) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
 2. ❗️ Labeled issue [#95](https://github.com/Railroad-Team/Railroad/issues/95) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
 <!--END_SECTION:activity-->
 
