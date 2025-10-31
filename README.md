@@ -42,7 +42,7 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. ❗️ Labeled issue [#98](https://github.com/Railroad-Team/Railroad/issues/98) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
+1. ❗️ Assigned issue [#95](https://github.com/Railroad-Team/Railroad/issues/95) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
 2. ❗️ Labeled issue [#98](https://github.com/Railroad-Team/Railroad/issues/98) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
 <!--END_SECTION:activity-->
 
