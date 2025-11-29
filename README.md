@@ -33,11 +33,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Gradle Tab](https://www.youtube.com/watch?v=9ksvGRqBgvQ)
 - [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Gradle Tab](https://www.youtube.com/watch?v=1htH7GhAU24)
 - [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Gradle Tab](https://www.youtube.com/watch?v=QFI69YlszUk)
 - [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Java Process Builder](https://www.youtube.com/watch?v=VT_If2YH-64)
 - [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Java Process Builder](https://www.youtube.com/watch?v=Xm757MpemeE)
-- [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Run Configurations](https://www.youtube.com/watch?v=mejpUAybBPA)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
