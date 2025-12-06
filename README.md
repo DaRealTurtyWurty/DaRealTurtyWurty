@@ -34,10 +34,10 @@
 
 <!-- YOUTUBE:START -->
 - [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Gradle Integration](https://www.youtube.com/watch?v=ZjbUBLGKt7A)
+- [Multiloader Minecraft Mod Development - 1.21.10 &lpar;Fabric &amp; NeoForge&rpar;](https://www.youtube.com/watch?v=wpMxpM_yxj4)
 - [Creating a LWJGL Factory Game](https://www.youtube.com/watch?v=b7jdS3BT2qk)
 - [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Gradle Tab](https://www.youtube.com/watch?v=9ksvGRqBgvQ)
 - [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Gradle Tab](https://www.youtube.com/watch?v=1htH7GhAU24)
-- [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Gradle Tab](https://www.youtube.com/watch?v=QFI69YlszUk)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
