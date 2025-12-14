@@ -33,11 +33,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Developing Industria &lpar;Tech Mod&rpar; - Fabric 1.21.8 - Multiblock Designer](https://www.youtube.com/watch?v=Lczdq_LWDsI)
 - [Developing Industria &lpar;Tech Mod&rpar; - Fabric 1.21.8 - Multiblocks](https://www.youtube.com/watch?v=wpMxpM_yxj4)
 - [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Gradle Integration](https://www.youtube.com/watch?v=ZjbUBLGKt7A)
 - [Creating a LWJGL Factory Game](https://www.youtube.com/watch?v=b7jdS3BT2qk)
 - [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Gradle Tab](https://www.youtube.com/watch?v=9ksvGRqBgvQ)
-- [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Gradle Tab](https://www.youtube.com/watch?v=1htH7GhAU24)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
