@@ -33,11 +33,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Developing Industria &lpar;Tech Mod&rpar; - Fabric 1.21.10 - Updating to 1.21.11](https://www.youtube.com/watch?v=vCR_ztH5kCM)
 - [Developing Industria &lpar;Tech Mod&rpar; - Fabric 1.21.10 - Updating to 1.21.11](https://www.youtube.com/watch?v=_exmhg4_QbA)
 - [Developing Industria &lpar;Tech Mod&rpar; - Fabric 1.21.10 - Updating to 1.21.11](https://www.youtube.com/watch?v=IqP0kaPbISs)
 - [Developing Industria &lpar;Tech Mod&rpar; - Fabric 1.21.8 - Updating to 1.21.11](https://www.youtube.com/watch?v=t1JO0e-Auf0)
 - [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Gradle Integration](https://www.youtube.com/watch?v=YIK3y3knZ-M)
-- [Developing Industria &lpar;Tech Mod&rpar; - Fabric 1.21.8 - Multiblock Designer](https://www.youtube.com/watch?v=bLiM_WBkogI)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
