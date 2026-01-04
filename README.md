@@ -33,11 +33,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Developing Industria &lpar;Tech Mod&rpar; - Fabric 1.21.11 - Updating to 26.1](https://www.youtube.com/watch?v=TUb7poqxN-Y)
 - [Developing Industria &lpar;Tech Mod&rpar; - Fabric 1.21.10 - Updating to 1.21.11](https://www.youtube.com/watch?v=OiVwEqDiG6c)
 - [Developing Industria &lpar;Tech Mod&rpar; - Fabric 1.21.10 - Updating to 1.21.11](https://www.youtube.com/watch?v=vCR_ztH5kCM)
 - [Developing Industria &lpar;Tech Mod&rpar; - Fabric 1.21.10 - Updating to 1.21.11](https://www.youtube.com/watch?v=_exmhg4_QbA)
 - [Developing Industria &lpar;Tech Mod&rpar; - Fabric 1.21.10 - Updating to 1.21.11](https://www.youtube.com/watch?v=IqP0kaPbISs)
-- [Developing Industria &lpar;Tech Mod&rpar; - Fabric 1.21.8 - Updating to 1.21.11](https://www.youtube.com/watch?v=t1JO0e-Auf0)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
