@@ -34,7 +34,7 @@
 
 <!-- YOUTUBE:START -->
 - [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Console Window](https://www.youtube.com/watch?v=_LdEVs5eB-s)
-- [Developing Industria &lpar;Tech Mod&rpar; - Fabric 26.1 - Multiblocks](https://www.youtube.com/watch?v=Af3N7BUrOzk)
+- [Developing Industria &lpar;Tech Mod&rpar; - Fabric 26.1 - UI Library](https://www.youtube.com/watch?v=Af3N7BUrOzk)
 - [Developing Industria &lpar;Tech Mod&rpar; - Fabric 1.21.11 - Updating to 26.1](https://www.youtube.com/watch?v=TUb7poqxN-Y)
 - [Developing Industria &lpar;Tech Mod&rpar; - Fabric 1.21.10 - Updating to 1.21.11](https://www.youtube.com/watch?v=OiVwEqDiG6c)
 - [Developing Industria &lpar;Tech Mod&rpar; - Fabric 1.21.10 - Updating to 1.21.11](https://www.youtube.com/watch?v=vCR_ztH5kCM)
