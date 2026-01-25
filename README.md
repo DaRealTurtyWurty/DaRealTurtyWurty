@@ -34,7 +34,7 @@
 
 <!-- YOUTUBE:START -->
 - [Developing Industria &lpar;Tech Mod&rpar; - Fabric 26.1 - UI Library](https://www.youtube.com/watch?v=92ejEQxNhBE)
-- [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - VCS Integration](https://www.youtube.com/watch?v=m9iteDyTuVY)
+- [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Git Integration](https://www.youtube.com/watch?v=m9iteDyTuVY)
 - [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - VCS Integration](https://www.youtube.com/watch?v=_LdEVs5eB-s)
 - [Developing Industria &lpar;Tech Mod&rpar; - Fabric 26.1 - UI Library](https://www.youtube.com/watch?v=_jK0PeIYEkg)
 - [Developing Industria &lpar;Tech Mod&rpar; - Fabric 26.1 - UI Library](https://www.youtube.com/watch?v=Af3N7BUrOzk)
