@@ -46,9 +46,11 @@
 2. 💪 Opened PR [#118](https://github.com/Railroad-Team/Railroad/pull/118) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
 <!--END_SECTION:activity-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealTurtyWurty&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](./profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
 
-[![DaRealTurtyWurty's wakatime stats](https://github-readme-stats.vercel.app/api?username=DaRealTurtyWurty)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](./profile/top-langs.svg)](https://github.com/anuraghazra/github-readme-stats)
+
+[![DaRealTurtyWurty's wakatime stats](./profile/wakatime.svg)](https://github.com/anuraghazra/github-readme-stats)
 
 [youtube]: https://youtube.com/TurtyWurty
 [discord]: https://discord.turtywurty.dev/
