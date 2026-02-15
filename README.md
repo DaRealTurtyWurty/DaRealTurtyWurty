@@ -33,11 +33,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Git Integration](https://www.youtube.com/watch?v=Iq7rLHx2mbg)
 - [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Git Integration](https://www.youtube.com/watch?v=VdSSXSTEFdA)
 - [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Git Integration](https://www.youtube.com/watch?v=ovIzcEmJVp8)
 - [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Git Integration](https://www.youtube.com/watch?v=4AkN1mjNA3s)
 - [Developing Industria &lpar;Tech Mod&rpar; - Fabric 26.1 - UI Library](https://www.youtube.com/watch?v=TMnwwUr-diA)
-- [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Git Integration](https://www.youtube.com/watch?v=NpLQaf5Ils4)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
