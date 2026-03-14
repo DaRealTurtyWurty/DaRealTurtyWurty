@@ -33,11 +33,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Version Diff Analyzer](https://www.youtube.com/watch?v=1ynwStINkAs)
 - [Developing Industria &lpar;Tech Mod&rpar; - Fabric 26.1 - Conveyors](https://www.youtube.com/watch?v=bVtGvdzE6Y4)
 - [Developing Industria &lpar;Tech Mod&rpar; - Fabric 26.1 - Conveyors](https://www.youtube.com/watch?v=cHIfpaZx8Tg)
 - [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Version Diff Analyzer](https://www.youtube.com/watch?v=WV2BXmkA4TQ)
 - [Developing Industria &lpar;Tech Mod&rpar; - Fabric 26.1 - Conveyors](https://www.youtube.com/watch?v=PkHVyRDdUgA)
-- [Developing Industria &lpar;Tech Mod&rpar; - Fabric 26.1 - Conveyors](https://www.youtube.com/watch?v=eKfUU0MFevc)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
