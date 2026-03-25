@@ -33,11 +33,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Fabric/NeoForge 26.1 Modding Tutorial - Setting Up](https://www.youtube.com/watch?v=yz3uV0oduSA)
 - [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Semantic Analysis](https://www.youtube.com/watch?v=1ynwStINkAs)
 - [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Semantic Analysis](https://www.youtube.com/watch?v=Lp80tTBE5j4)
 - [Developing Industria &lpar;Tech Mod&rpar; - Fabric 26.1 - Conveyors](https://www.youtube.com/watch?v=AGwyPiSyd4k)
 - [Developing Industria &lpar;Tech Mod&rpar; - Fabric 26.1 - Conveyors](https://www.youtube.com/watch?v=MFcSVGgmXi0)
-- [Developing Industria &lpar;Tech Mod&rpar; - Fabric 26.1 - Conveyors](https://www.youtube.com/watch?v=bVtGvdzE6Y4)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
