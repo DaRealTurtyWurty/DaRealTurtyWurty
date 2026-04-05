@@ -33,8 +33,8 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Developing Industria &lpar;Tech Mod&rpar; - Fabric 26.1 - Containment Conveyor](https://www.youtube.com/watch?v=qF1AqTFrrU8)
 - [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Inspections](https://www.youtube.com/watch?v=mB_T0qMIbJc)
+- [Developing Industria &lpar;Tech Mod&rpar; - Fabric 26.1 - Containment Conveyor](https://www.youtube.com/watch?v=qF1AqTFrrU8)
 - [Fabric/NeoForge 26.1 Modding Tutorial - Blocks](https://www.youtube.com/watch?v=0Cgjb-M5PdQ)
 - [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Semantic Analysis](https://www.youtube.com/watch?v=Lp80tTBE5j4)
 - [Developing Industria &lpar;Tech Mod&rpar; - Fabric 26.1 - Conveyors](https://www.youtube.com/watch?v=AGwyPiSyd4k)
