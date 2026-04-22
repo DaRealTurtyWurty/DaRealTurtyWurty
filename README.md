@@ -42,7 +42,7 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. ❗️ Labeled issue [#129](https://github.com/Railroad-Team/Railroad/issues/129) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
+1. ❗️ Closed issue [#288](https://github.com/DaRealTurtyWurty/SuperTurtyBot/issues/288) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
 2. ❗️ Labeled issue [#129](https://github.com/Railroad-Team/Railroad/issues/129) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
 <!--END_SECTION:activity-->
 
