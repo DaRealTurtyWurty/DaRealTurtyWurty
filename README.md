@@ -33,7 +33,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Developing Industria &lpar;Tech Mod&rpar; - Fabric 26.1 - Arc Furnace](https://www.youtube.com/watch?v=TTvrbbJ6vvA)
+- [Developing Industria &lpar;Tech Mod&rpar; - Fabric 26.1 - Rubber Processing](https://www.youtube.com/watch?v=TTvrbbJ6vvA)
 - [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Inspections](https://www.youtube.com/watch?v=SimwGgtdzGE)
 - [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Inspections](https://www.youtube.com/watch?v=HzC2Wo34VQU)
 - [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Inspections](https://www.youtube.com/watch?v=XEF0Ifvx4bE)
