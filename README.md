@@ -33,11 +33,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Fabric/NeoForge 26.1 Modding Tutorial - Entity Animations](https://www.youtube.com/watch?v=rBqZhiNtTbI)
+- [Fabric/NeoForge 26.1 Modding Tutorial - Armor](https://www.youtube.com/watch?v=awiqU-_-JGE)
 - [Fabric/NeoForge 26.1 Modding Tutorial - Tools](https://www.youtube.com/watch?v=IJ2_vZbhNxA)
 - [Fabric/NeoForge 26.1 Modding Tutorial - Tameable Entities](https://www.youtube.com/watch?v=laciTJOFLjc)
 - [Fabric/NeoForge 26.1 Modding Tutorial - Entities](https://www.youtube.com/watch?v=jkprYPgAXaM)
-- [Developing Industria &lpar;Tech Mod&rpar; - Fabric 26.1 - Rubber Processing](https://www.youtube.com/watch?v=TTvrbbJ6vvA)
-- [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Inspections](https://www.youtube.com/watch?v=SimwGgtdzGE)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
