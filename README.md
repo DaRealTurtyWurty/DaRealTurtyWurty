@@ -33,11 +33,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Fabric/NeoForge 26.1 Modding Tutorial - Creative Tabs](https://www.youtube.com/watch?v=6vSJwUS6Lck)
 - [Fabric/NeoForge 26.1 Modding Tutorial - Entity Animations](https://www.youtube.com/watch?v=rBqZhiNtTbI)
 - [Fabric/NeoForge 26.1 Modding Tutorial - Armor](https://www.youtube.com/watch?v=awiqU-_-JGE)
 - [Fabric/NeoForge 26.1 Modding Tutorial - Tools](https://www.youtube.com/watch?v=IJ2_vZbhNxA)
 - [Fabric/NeoForge 26.1 Modding Tutorial - Tameable Entities](https://www.youtube.com/watch?v=laciTJOFLjc)
-- [Fabric/NeoForge 26.1 Modding Tutorial - Entities](https://www.youtube.com/watch?v=jkprYPgAXaM)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
