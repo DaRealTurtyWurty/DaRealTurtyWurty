@@ -42,8 +42,8 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#288](https://github.com/DaRealTurtyWurty/SuperTurtyBot/issues/288) in [DaRealTurtyWurty/SuperTurtyBot](https://github.com/DaRealTurtyWurty/SuperTurtyBot)
-2. ❗️ Labeled issue [#129](https://github.com/Railroad-Team/Railroad/issues/129) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
+1. ❌ Merged PR [#1](https://github.com/Railroad-Team/ceffx/pull/1) in [Railroad-Team/ceffx](https://github.com/Railroad-Team/ceffx)
+2. 💪 Opened PR [#1](https://github.com/DaRealTurtyWurty/Railroad/pull/1) in [DaRealTurtyWurty/Railroad](https://github.com/DaRealTurtyWurty/Railroad)
 <!--END_SECTION:activity-->
 
 [![Stats](./profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
