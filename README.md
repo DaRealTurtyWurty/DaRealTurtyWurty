@@ -33,11 +33,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Inspections](https://www.youtube.com/watch?v=pEyIPVqJQZ8)
 - [Fabric/NeoForge 26.1 Modding Tutorial - Ore Generation](https://www.youtube.com/watch?v=qPrlJmNkEr8)
 - [Fabric/NeoForge 26.1 Modding Tutorial - Entity Inventory](https://www.youtube.com/watch?v=V-WUQtW6LVo)
 - [Fabric/NeoForge 26.1 Modding Tutorial - Food](https://www.youtube.com/watch?v=CMCqe4EEpk0)
 - [Fabric/NeoForge 26.1 Modding Tutorial - Creative Tabs](https://www.youtube.com/watch?v=6vSJwUS6Lck)
-- [Fabric/NeoForge 26.1 Modding Tutorial - Entity Animations](https://www.youtube.com/watch?v=rBqZhiNtTbI)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
