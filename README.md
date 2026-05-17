@@ -42,8 +42,8 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#1](https://github.com/Railroad-Team/ceffx/pull/1) in [Railroad-Team/ceffx](https://github.com/Railroad-Team/ceffx)
-2. 💪 Opened PR [#1](https://github.com/DaRealTurtyWurty/Railroad/pull/1) in [DaRealTurtyWurty/Railroad](https://github.com/DaRealTurtyWurty/Railroad)
+1. ❌ Closed PR [#56](https://github.com/Railroad-Team/Railroad/pull/56) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
+2. ❌ Merged PR [#1](https://github.com/Railroad-Team/ceffx/pull/1) in [Railroad-Team/ceffx](https://github.com/Railroad-Team/ceffx)
 <!--END_SECTION:activity-->
 
 [![Stats](./profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
