@@ -33,11 +33,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Fabric/NeoForge 26.1 Modding Tutorial - Flowers](https://www.youtube.com/watch?v=qxjp81C82Ac)
 - [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Inspections](https://www.youtube.com/watch?v=yeo82thkKug)
 - [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Teaching @frostyflippper to make an inspection](https://www.youtube.com/watch?v=pEyIPVqJQZ8)
 - [Fabric/NeoForge 26.1 Modding Tutorial - Ore Generation](https://www.youtube.com/watch?v=qPrlJmNkEr8)
 - [Fabric/NeoForge 26.1 Modding Tutorial - Entity Inventory](https://www.youtube.com/watch?v=V-WUQtW6LVo)
-- [Fabric/NeoForge 26.1 Modding Tutorial - Food](https://www.youtube.com/watch?v=CMCqe4EEpk0)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
