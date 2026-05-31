@@ -878,7 +878,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#b07219" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java - 2,727 hrs 9 mins
+        Java - 2,727 hrs 47 mins
       </text>
     </g>
   
@@ -927,7 +927,7 @@
     <g transform="translate(230, 100)">
       <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ - 43 hrs 4 mins
+        C++ - 43 hrs 5 mins
       </text>
     </g>
   
@@ -1081,7 +1081,7 @@
     <g transform="translate(230, 375)">
       <circle cx="5" cy="6" r="5" fill="#DA3434" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CMake - 2 hrs 37 mins
+        CMake - 2 hrs 39 mins
       </text>
     </g>
   
