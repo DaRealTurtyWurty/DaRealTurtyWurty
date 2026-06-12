@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="364.3275"
+            width="364.374"
             height="8"
             fill="#b07219"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="364.3275"
+            x="364.374"
             y="0"
-            width="28.5975"
+            width="28.551"
             height="8"
             fill="#3178c6"
           />
@@ -878,7 +878,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#b07219" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java - 2,736 hrs 53 mins
+        Java - 2,737 hrs 47 mins
       </text>
     </g>
   
