@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="362.8395"
+            width="362.9325"
             height="8"
             fill="#b07219"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="362.8395"
+            x="362.9325"
             y="0"
-            width="29.574"
+            width="29.5275"
             height="8"
             fill="#3178c6"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="392.4135"
+            x="392.46"
             y="0"
-            width="11.671499999999998"
+            width="11.625"
             height="8"
             fill="#f1e05a"
           />
@@ -918,7 +918,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#b07219" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java - 2,792 hrs 45 mins
+        Java - 2,796 hrs 28 mins
       </text>
     </g>
   
@@ -939,7 +939,7 @@
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#4298b8" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Groovy - 60 hrs 35 mins
+        Groovy - 60 hrs 40 mins
       </text>
     </g>
   
@@ -953,7 +953,7 @@
     <g transform="translate(230, 75)">
       <circle cx="5" cy="6" r="5" fill="#292929" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JSON - 53 hrs 40 mins
+        JSON - 53 hrs 44 mins
       </text>
     </g>
   
@@ -1009,7 +1009,7 @@
     <g transform="translate(230, 175)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        GitIgnore file - 8 hrs 41 mins
+        GitIgnore file - 8 hrs 44 mins
       </text>
     </g>
   
