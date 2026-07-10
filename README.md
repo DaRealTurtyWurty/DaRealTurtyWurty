@@ -42,8 +42,8 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#3](https://github.com/DaRealTurtyWurty/RadioPlayer/pull/3) in [DaRealTurtyWurty/RadioPlayer](https://github.com/DaRealTurtyWurty/RadioPlayer)
-2. 💪 Opened PR [#3](https://github.com/DaRealTurtyWurty/RadioPlayer/pull/3) in [DaRealTurtyWurty/RadioPlayer](https://github.com/DaRealTurtyWurty/RadioPlayer)
+1. ❌ Merged PR [#4](https://github.com/DaRealTurtyWurty/RadioPlayer/pull/4) in [DaRealTurtyWurty/RadioPlayer](https://github.com/DaRealTurtyWurty/RadioPlayer)
+2. 💪 Opened PR [#4](https://github.com/DaRealTurtyWurty/RadioPlayer/pull/4) in [DaRealTurtyWurty/RadioPlayer](https://github.com/DaRealTurtyWurty/RadioPlayer)
 <!--END_SECTION:activity-->
 
 [![Stats](./profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
