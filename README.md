@@ -33,11 +33,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Planning Industria &lpar;Tech Mod&rpar; - Fabric 26.2](https://www.youtube.com/watch?v=QLhDKozp7Lk)
 - [Minecraft Mod Development - Multiloader 26.2 - Silly stuff](https://www.youtube.com/watch?v=8BrXsOile1s)
 - [Minecraft Mod Development - Multiloader 26.2 - Silly stuff](https://www.youtube.com/watch?v=z7tqRixOEBs)
 - [Minecraft Mod Development - Multiloader 26.2 - Silly stuff](https://www.youtube.com/watch?v=migRMuFx_MM)
 - [Minecraft Mod Development - Multiloader 26.2 - Silly stuff](https://www.youtube.com/watch?v=9ZoDzWNLnPE)
-- [Minecraft Mod Development - Multiloader 26.2 - Silly stuff](https://www.youtube.com/watch?v=llJ7R7Xu1No)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
