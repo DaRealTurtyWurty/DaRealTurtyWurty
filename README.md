@@ -33,11 +33,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Big rewrites](https://www.youtube.com/watch?v=gQBQnFk8L7k)
 - [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - IDE Tabs](https://www.youtube.com/watch?v=CJR-xg0nYKw)
 - [Planning Industria &lpar;Tech Mod&rpar; - Fabric 26.2](https://www.youtube.com/watch?v=Xb2_7hn5iFg)
 - [Planning Industria &lpar;Tech Mod&rpar; - Fabric 26.2](https://www.youtube.com/watch?v=3J0MEuY3Zjw)
 - [Planning Industria &lpar;Tech Mod&rpar; - Fabric 26.2](https://www.youtube.com/watch?v=FDdZ9Y_HChw)
-- [Planning Industria &lpar;Tech Mod&rpar; - Fabric 26.2](https://www.youtube.com/watch?v=QLhDKozp7Lk)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
