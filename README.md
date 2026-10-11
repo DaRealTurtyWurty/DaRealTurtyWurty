@@ -42,8 +42,8 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#644](https://github.com/Railroad-Team/Railroad/pull/644) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
-2. ❌ Assigned PR [#644](https://github.com/Railroad-Team/Railroad/pull/644) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
+1. 💪 Opened PR [#648](https://github.com/Railroad-Team/Railroad/pull/648) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
+2. ❌ Assigned PR [#648](https://github.com/Railroad-Team/Railroad/pull/648) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
 <!--END_SECTION:activity-->
 
 [![Stats](./profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
