@@ -42,8 +42,8 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. ❗️ Assigned issue [#154](https://github.com/Railroad-Team/Railroad/issues/154) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
-2. ❌ Merged PR [#648](https://github.com/Railroad-Team/Railroad/pull/648) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
+1. ❌ Merged PR [#27](https://github.com/DaRealTurtyWurty/Industria/pull/27) in [DaRealTurtyWurty/Industria](https://github.com/DaRealTurtyWurty/Industria)
+2. ❌ Labeled PR [#27](https://github.com/DaRealTurtyWurty/Industria/pull/27) in [DaRealTurtyWurty/Industria](https://github.com/DaRealTurtyWurty/Industria)
 <!--END_SECTION:activity-->
 
 [![Stats](./profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
