@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="350.1915"
+            width="350.09850000000006"
             height="8"
             fill="#b07219"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="350.1915"
+            x="350.09850000000006"
             y="0"
-            width="35.619"
+            width="35.711999999999996"
             height="8"
             fill="#3178c6"
           />
@@ -581,7 +581,7 @@
             y="0"
             width="0.04650000000000001"
             height="8"
-            fill="#858585"
+            fill="#F44D27"
           />
         
           <rect
@@ -591,7 +591,7 @@
             y="0"
             width="0.04650000000000001"
             height="8"
-            fill="#F44D27"
+            fill="#858585"
           />
         
           <rect
@@ -995,14 +995,14 @@
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript - 305 hrs 5 mins
+        TypeScript - 305 hrs 57 mins
       </text>
     </g>
   
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript - 92 hrs 15 mins
+        JavaScript - 92 hrs 22 mins
       </text>
     </g>
   
@@ -1079,7 +1079,7 @@
     <g transform="translate(230, 175)">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python - 11 hrs 50 mins
+        Python - 11 hrs 56 mins
       </text>
     </g>
   
@@ -1301,16 +1301,16 @@
     </g>
   
     <g transform="translate(230, 575)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <circle cx="5" cy="6" r="5" fill="#F44D27" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSV/TSV - 34 mins
+        Git Config - 34 mins
       </text>
     </g>
   
     <g transform="translate(25, 600)">
-      <circle cx="5" cy="6" r="5" fill="#F44D27" />
+      <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Git Config - 31 mins
+        CSV/TSV - 34 mins
       </text>
     </g>
   
