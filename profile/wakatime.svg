@@ -988,7 +988,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#b07219" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java - 3,008 hrs 45 mins
+        Java - 3,009 hrs 4 mins
       </text>
     </g>
   
@@ -1016,7 +1016,7 @@
     <g transform="translate(25, 75)">
       <circle cx="5" cy="6" r="5" fill="#4298b8" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Groovy - 69 hrs 5 mins
+        Groovy - 69 hrs 6 mins
       </text>
     </g>
   
