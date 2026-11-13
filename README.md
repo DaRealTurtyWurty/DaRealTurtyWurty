@@ -42,7 +42,7 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#656](https://github.com/Railroad-Team/Railroad/pull/656) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
+1. ❌ Merged PR [#656](https://github.com/Railroad-Team/Railroad/pull/656) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
 2. ❌ Labeled PR [#656](https://github.com/Railroad-Team/Railroad/pull/656) in [Railroad-Team/Railroad](https://github.com/Railroad-Team/Railroad)
 <!--END_SECTION:activity-->
 
