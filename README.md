@@ -33,11 +33,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Developing Industria &lpar;Minecraft Tech Mod&rpar; - Shafts and Gearboxes](https://www.youtube.com/watch?v=IpxjfYP_r3M)
 - [Developing Industria &lpar;Minecraft Tech Mod&rpar; - Coke Oven](https://www.youtube.com/watch?v=vLU8TaFh3y4)
 - [Developing Industria &lpar;Tech Mod&rpar; - Multiloader 26.3 - Water Wheels](https://www.youtube.com/watch?v=PI2oy4E9rpw)
 - [Developing Industria &lpar;Tech Mod&rpar; - Multiloader 26.3 - Water Wheels](https://www.youtube.com/watch?v=L5hs0hD91NE)
 - [Developing a Minecraft Modding IDE &lpar;Railroad&rpar; - Debugger](https://www.youtube.com/watch?v=lkJK_Y9J6qc)
-- [Developing Industria &lpar;Tech Mod&rpar; - Multiloader 26.1](https://www.youtube.com/watch?v=P64JKkm5xrU)
 <!-- YOUTUBE:END -->
 
 ### Recent Github Activity
